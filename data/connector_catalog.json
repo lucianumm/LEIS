@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "record_contract": "scripts/validate_connector_records.py",
+  "connectors": [
+    {
+      "id": "planalto-html-listing",
+      "scope": "federal",
+      "normative_types": ["constituição", "emenda constitucional", "lei", "decreto", "decreto-lei", "medida provisória", "ato internacional"],
+      "implementation": "scripts/harvest_official.py",
+      "input": "listing_url + link_pattern",
+      "output": "raw HTML, text Markdown, manifest with hash and retrieval time",
+      "status": "implemented"
+    },
+    {
+      "id": "tribunal-jurisprudencia",
+      "scope": "federal",
+      "normative_types": ["acórdão", "súmula", "precedente", "recurso repetitivo", "repercussão geral"],
+      "implementation": "scripts/harvest_official.py",
+      "input": "official listing/search URL + court-specific pattern",
+      "required_fields": ["court", "case_id", "publication_date", "thesis", "precedential_type", "official_url", "full_text_sha256"],
+      "status": "contract_ready_external_source"
+    },
+    {
+      "id": "federal-infralegal",
+      "scope": "federal",
+      "normative_types": ["portaria", "resolução", "instrução normativa", "norma regulamentadora", "provimento"],
+      "implementation": "scripts/harvest_official.py",
+      "input": "official agency listing/search URL + link pattern",
+      "required_fields": ["issuing_authority", "identifier", "publication_date", "effective_from", "official_url", "full_text_sha256"],
+      "status": "contract_ready_external_source"
+    },
+    {
+      "id": "uf-legislation",
+      "scope": "state_or_district",
+      "normative_types": ["constituição estadual", "lei estadual", "decreto estadual", "ato local"],
+      "implementation": "scripts/harvest_official.py",
+      "input": "one official portal per UF + source manifest entry",
+      "required_fields": ["uf", "authority", "identifier", "publication_date", "official_url", "raw_text_sha256"],
+      "status": "generic_connector_ready_requires_source_registration"
+    },
+    {
+      "id": "municipal-legislation",
+      "scope": "municipal",
+      "normative_types": ["lei orgânica", "lei municipal", "decreto municipal", "plano diretor", "ato local"],
+      "implementation": "scripts/harvest_official.py",
+      "input": "municipality + official portal URL + source manifest entry",
+      "required_fields": ["state", "municipality", "authority", "identifier", "publication_date", "official_url", "raw_text_sha256"],
+      "status": "generic_connector_ready_requires_source_registration"
+    },
+    {
+      "id": "collective-private-document",
+      "scope": "sector_or_contract",
+      "normative_types": ["convenção coletiva", "acordo coletivo", "contrato", "regulamento interno"],
+      "implementation": "scripts/validate_connector_records.py",
+      "input": "document supplied for the concrete case",
+      "required_fields": ["parties", "territorial_scope", "subjective_scope", "effective_from", "effective_until", "document_sha256"],
+      "status": "document_required"
+    }
+  ]
+}

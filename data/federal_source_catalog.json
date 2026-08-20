@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "purpose": "Mapa de famílias federais a descobrir e ingerir; a presença aqui não significa que o texto esteja no snapshot local.",
+  "official_root": "https://www4.planalto.gov.br/legislacao",
+  "families": [
+    {
+      "id": "constituicao-federal",
+      "jurisdiction": "federal",
+      "normative_type": "constituição",
+      "coverage_status": "official_external",
+      "official_listing_url": "https://www4.planalto.gov.br/legislacao",
+      "collector_source_id": "planalto-federal-portal",
+      "local_paths": [],
+      "history_required": true
+    },
+    {
+      "id": "emendas-constitucionais",
+      "jurisdiction": "federal",
+      "normative_type": "emenda constitucional",
+      "coverage_status": "official_external",
+      "official_listing_url": "https://www4.planalto.gov.br/legislacao",
+      "collector_source_id": "planalto-federal-portal",
+      "local_paths": [],
+      "history_required": true
+    },
+    {
+      "id": "leis-ordinarias-historicas",
+      "jurisdiction": "federal",
+      "normative_type": "lei ordinária",
+      "coverage_status": "official_external",
+      "official_listing_url": "https://www4.planalto.gov.br/legislacao",
+      "collector_source_id": "planalto-federal-portal",
+      "local_paths": [],
+      "history_required": true
+    },
+    {
+      "id": "leis-ordinarias-2026",
+      "jurisdiction": "federal",
+      "normative_type": "lei ordinária",
+      "coverage_status": "local_snapshot",
+      "official_listing_url": "https://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/leis-ordinarias/2026-leis-ordinarias",
+      "collector_source_id": "planalto-leis-ordinarias-2026",
+      "local_paths": ["corpus/leis_ordinarias_2026.md"],
+      "history_required": true
+    },
+    {
+      "id": "leis-complementares",
+      "jurisdiction": "federal",
+      "normative_type": "lei complementar",
+      "coverage_status": "local_snapshot",
+      "official_listing_url": "https://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/leis-complementares-1/todas-as-leis-complementares-1",
+      "collector_source_id": "planalto-leis-complementares",
+      "local_paths": ["corpus/leis_complementares.md"],
+      "history_required": true
+    },
+    {
+      "id": "leis-delegadas",
+      "jurisdiction": "federal",
+      "normative_type": "lei delegada",
+      "coverage_status": "official_external",
+      "official_listing_url": "https://www4.planalto.gov.br/legislacao",
+      "collector_source_id": "planalto-federal-portal",
+      "local_paths": [],
+      "history_required": true
+    },
+    {
+      "id": "decretos",
+      "jurisdiction": "federal",
+      "normative_type": "decreto",
+      "coverage_status": "official_external",
+      "official_listing_url": "https://www4.planalto.gov.br/legislacao",
+      "collector_source_id": "planalto-federal-portal",
+      "local_paths": [],
+      "history_required": true
+    },
+    {
+      "id": "decretos-leis",
+      "jurisdiction": "federal",
+      "normative_type": "decreto-lei",
+      "coverage_status": "official_external",
+      "official_listing_url": "https://www4.planalto.gov.br/legislacao",
+      "collector_source_id": "planalto-federal-portal",
+      "local_paths": [],
+      "history_required": true
+    },
+    {
+      "id": "medidas-provisorias",
+      "jurisdiction": "federal",
+      "normative_type": "medida provisória",
+      "coverage_status": "official_external",
+      "official_listing_url": "https://www4.planalto.gov.br/legislacao",
+      "collector_source_id": "planalto-federal-portal",
+      "local_paths": [],
+      "history_required": true
+    },
+    {
+      "id": "atos-internacionais",
+      "jurisdiction": "federal",
+      "normative_type": "ato internacional",
+      "coverage_status": "official_external",
+      "official_listing_url": "https://www4.planalto.gov.br/legislacao",
+      "collector_source_id": "planalto-federal-portal",
+      "local_paths": [],
+      "history_required": true
+    }
+  ]
+}

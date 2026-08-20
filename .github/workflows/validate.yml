@@ -1,0 +1,36 @@
+name: Validate legal-analysis skill
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Validate skill structure
+        run: python scripts/validate_skill.py .
+      - name: Rebuild catalogue and graph
+        run: |
+          python scripts/build_catalog.py --corpus-dir corpus --output-dir data --collection-reference-date 2026-08-20
+          python scripts/build_graph.py --catalog data/catalogo.json --output-dir data
+          python scripts/build_snapshot_manifest.py --root . --snapshot-id ci
+          python scripts/build_coverage_report.py --root . --output-dir data
+      - name: Validate corpus and connectors
+        run: python scripts/check_corpus.py --root .
+      - name: Run discovery regressions
+        run: python scripts/run_evaluation.py
+      - name: Run unit tests
+        run: python -m unittest discover -s tests -v
+      - name: Compile scripts
+        run: python -m compileall -q scripts tests

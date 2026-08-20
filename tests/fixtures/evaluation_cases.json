@@ -1,0 +1,34 @@
+[
+  {
+    "id": "doenca-ocupacional",
+    "groups": ["doenca_ocupacional"],
+    "theme": "trabalho",
+    "min_results": 1,
+    "limit": 5,
+    "must_include": ["lei-complementar-150"]
+  },
+  {
+    "id": "jornada",
+    "groups": ["jornada"],
+    "theme": "trabalho",
+    "min_results": 1,
+    "limit": 5,
+    "must_include": ["lei-complementar-150"]
+  },
+  {
+    "id": "tributario-icms",
+    "terms": ["ICMS"],
+    "theme": "tributario",
+    "min_results": 1,
+    "limit": 5,
+    "must_include": ["lei-complementar-192"]
+  },
+  {
+    "id": "dados-pessoais",
+    "terms": ["dados pessoais"],
+    "theme": "digital_dados_telecom",
+    "min_results": 1,
+    "limit": 5,
+    "must_include": ["lei-ordinaria-15352"]
+  }
+]

@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "normalization_note": "Inclui grafias normais, formas sem acento e variantes observadas no snapshot com codificação imperfeita.",
+  "groups": {
+    "doenca_ocupacional": [
+      "doença ocupacional",
+      "doenca ocupacional",
+      "doenea ocupacional",
+      "doenęa ocupacional",
+      "doença profissional",
+      "doenca profissional",
+      "doenea profissional",
+      "doenęa profissional",
+      "acidente do trabalho",
+      "acidente de trabalho",
+      "comunicação de acidente",
+      "comunicacao de acidente",
+      "CAT",
+      "nexo causal",
+      "nexo técnico",
+      "nexo tecnico",
+      "insalubridade",
+      "periculosidade"
+    ],
+    "registro_trabalho": [
+      "trabalho sem registro",
+      "sem registro em carteira",
+      "ausência de registro",
+      "ausencia de registro",
+      "vínculo empregatício",
+      "vinculo empregaticio",
+      "anotação da CTPS",
+      "anotacao da CTPS",
+      "carteira de trabalho"
+    ],
+    "jornada": [
+      "hora extra",
+      "horas extras",
+      "jornada extraordinária",
+      "jornada extraordinaria",
+      "sobrejornada",
+      "banco de horas",
+      "intervalo intrajornada",
+      "intervalo interjornada"
+    ],
+    "previdencia": [
+      "benefício por incapacidade",
+      "beneficio por incapacidade",
+      "auxílio-doença",
+      "auxilio-doenca",
+      "auxílio por incapacidade temporária",
+      "aposentadoria por incapacidade permanente",
+      "auxílio-acidente",
+      "auxilio-acidente",
+      "qualidade de segurado",
+      "carência",
+      "carencia"
+    ],
+    "dados_digitais": [
+      "dados pessoais",
+      "tratamento de dados",
+      "vazamento de dados",
+      "incidente de segurança",
+      "incidente de seguranca",
+      "perfilização",
+      "perfilizacao",
+      "decisão automatizada",
+      "decisao automatizada"
+    ],
+    "consumidor": [
+      "falha na prestação de serviço",
+      "falha na prestacao de servico",
+      "cobrança indevida",
+      "cobranca indevida",
+      "superendividamento",
+      "vício do produto",
+      "vicio do produto",
+      "dano moral do consumidor"
+    ],
+    "ambiente": [
+      "licenciamento ambiental",
+      "dano ambiental",
+      "responsabilidade ambiental",
+      "resíduo",
+      "residuo",
+      "recursos hídricos",
+      "recursos hidricos",
+      "área de preservação permanente",
+      "area de preservacao permanente"
+    ]
+  }
+}

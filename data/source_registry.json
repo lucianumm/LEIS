@@ -1,0 +1,222 @@
+{
+  "schema_version": "2.0",
+  "last_reviewed": "2026-08-20",
+  "purpose": "Registro operacional das fontes que a skill deve consultar e das partes do ordenamento ainda não ingeridas no snapshot local.",
+  "federal_source_catalog": "data/federal_source_catalog.json",
+  "harvest_manifest": "data/source_harvest_manifest.json",
+  "connector_catalog": "data/connector_catalog.json",
+  "verification_script": "scripts/verify_sources.py",
+  "snapshot_manifest": "data/snapshot_manifest.json",
+  "status_legend": {
+    "local_snapshot": "há conteúdo versionado no diretório corpus/; a vigência ainda exige rechecagem",
+    "official_external": "fonte oficial para consulta no caso concreto; ainda não incorporada integralmente",
+    "connector_required": "há uma família de fontes, mas é necessário um conector específico por órgão ou ente",
+    "not_covered": "não está no snapshot e não deve ser tratado como pesquisado"
+  },
+  "sources": [
+    {
+      "id": "planalto-legislacao",
+      "authority": "Presidência da República — Portal da Legislação",
+      "jurisdiction": "federal",
+      "authority_level": "legislação oficial",
+      "content_types": ["constituição", "emendas", "leis", "leis complementares", "decretos", "decretos-leis", "medidas provisórias", "atos internacionais"],
+      "url": "https://www4.planalto.gov.br/legislacao",
+      "coverage_status": "local_snapshot",
+      "local_paths": ["corpus/leis_ordinarias_2026.md", "corpus/leis_complementares.md"],
+      "requires_status_recheck": true
+    },
+    {
+      "id": "presidencia-base-legislacao",
+      "authority": "Presidência da República — Base da Legislação Federal",
+      "jurisdiction": "federal",
+      "authority_level": "registro oficial e situação normativa",
+      "content_types": ["atos federais desde 1889", "redações", "alterações", "situação normativa"],
+      "url": "https://legislacao.presidencia.gov.br/",
+      "coverage_status": "official_external",
+      "local_paths": [],
+      "requires_status_recheck": true
+    },
+    {
+      "id": "dou",
+      "authority": "Imprensa Nacional — Diário Oficial da União",
+      "jurisdiction": "federal",
+      "authority_level": "publicação oficial",
+      "content_types": ["publicação", "retificação", "atos normativos", "atos administrativos"],
+      "url": "https://www.in.gov.br/",
+      "coverage_status": "official_external",
+      "local_paths": [],
+      "requires_status_recheck": true
+    },
+    {
+      "id": "camara-legislacao",
+      "authority": "Câmara dos Deputados",
+      "jurisdiction": "federal",
+      "authority_level": "fonte legislativa oficial",
+      "content_types": ["projetos", "tramitação", "legislação", "processo legislativo"],
+      "url": "https://www.camara.leg.br/legislacao",
+      "coverage_status": "official_external",
+      "local_paths": [],
+      "requires_status_recheck": true
+    },
+    {
+      "id": "senado-legislacao",
+      "authority": "Senado Federal",
+      "jurisdiction": "federal",
+      "authority_level": "fonte legislativa oficial",
+      "content_types": ["legislação", "tramitação", "processo legislativo"],
+      "url": "https://www25.senado.leg.br/web/atividade/legislacao",
+      "coverage_status": "official_external",
+      "local_paths": [],
+      "requires_status_recheck": true
+    },
+    {
+      "id": "stf-jurisprudencia",
+      "authority": "Supremo Tribunal Federal",
+      "jurisdiction": "federal",
+      "authority_level": "jurisprudência constitucional",
+      "content_types": ["acórdãos", "súmulas", "súmulas vinculantes", "repercussão geral", "controle concentrado"],
+      "url": "https://portal.stf.jus.br/jurisprudencia/",
+      "coverage_status": "official_external",
+      "local_paths": [],
+      "requires_status_recheck": true
+    },
+    {
+      "id": "stj-jurisprudencia",
+      "authority": "Superior Tribunal de Justiça",
+      "jurisdiction": "federal",
+      "authority_level": "jurisprudência infraconstitucional",
+      "content_types": ["acórdãos", "súmulas", "recursos repetitivos", "IAC"],
+      "url": "https://processo.stj.jus.br/SCON/",
+      "coverage_status": "official_external",
+      "local_paths": [],
+      "requires_status_recheck": true
+    },
+    {
+      "id": "tst-jurisprudencia",
+      "authority": "Tribunal Superior do Trabalho",
+      "jurisdiction": "federal",
+      "authority_level": "jurisprudência trabalhista",
+      "content_types": ["acórdãos", "súmulas", "orientações jurisprudenciais", "precedentes"],
+      "url": "https://jurisprudencia.tst.jus.br/",
+      "coverage_status": "official_external",
+      "local_paths": [],
+      "requires_status_recheck": true
+    },
+    {
+      "id": "tse-jurisprudencia",
+      "authority": "Tribunal Superior Eleitoral",
+      "jurisdiction": "federal",
+      "authority_level": "jurisprudência eleitoral",
+      "content_types": ["acórdãos", "súmulas", "resoluções", "precedentes"],
+      "url": "https://jurisprudencia.tse.jus.br/",
+      "coverage_status": "official_external",
+      "local_paths": [],
+      "requires_status_recheck": true
+    },
+    {
+      "id": "stm-jurisprudencia",
+      "authority": "Superior Tribunal Militar",
+      "jurisdiction": "federal",
+      "authority_level": "jurisprudência militar",
+      "content_types": ["acórdãos", "súmulas", "jurisprudência"],
+      "url": "https://www.stm.jus.br/servicos-stm/jurisprudencia",
+      "coverage_status": "official_external",
+      "local_paths": [],
+      "requires_status_recheck": true
+    },
+    {
+      "id": "cnj-atos",
+      "authority": "Conselho Nacional de Justiça",
+      "jurisdiction": "federal",
+      "authority_level": "atos normativos do Poder Judiciário",
+      "content_types": ["resoluções", "provimentos", "recomendações", "instruções normativas"],
+      "url": "https://atos.cnj.jus.br/",
+      "coverage_status": "official_external",
+      "local_paths": [],
+      "requires_status_recheck": true
+    },
+    {
+      "id": "trabalho-nrs",
+      "authority": "Ministério do Trabalho e Emprego — Normas Regulamentadoras",
+      "jurisdiction": "federal",
+      "authority_level": "regulamentação administrativa setorial",
+      "content_types": ["normas regulamentadoras", "segurança e saúde no trabalho"],
+      "url": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/seguranca-e-saude-no-trabalho/ctpp-nrs/normas-regulamentadoras-nrs",
+      "coverage_status": "official_external",
+      "local_paths": [],
+      "requires_status_recheck": true
+    }
+  ],
+  "coverage": [
+    {
+      "scope_id": "federal-laws-current-snapshot",
+      "jurisdiction": ["federal"],
+      "normative_types": ["lei ordinária", "lei complementar"],
+      "status": "partial",
+      "source_ids": ["planalto-legislacao"],
+      "local_paths": ["corpus/leis_ordinarias_2026.md", "corpus/leis_complementares.md"],
+      "record_count": 403,
+      "notes": "Snapshot local; não inclui todo o histórico federal nem certifica vigência."
+    },
+    {
+      "scope_id": "federal-legislation-full",
+      "jurisdiction": ["federal"],
+      "normative_types": ["constituição", "emendas", "leis", "decretos", "decretos-leis", "medidas provisórias", "atos internacionais"],
+      "status": "not_covered",
+      "source_ids": ["planalto-legislacao", "presidencia-base-legislacao", "dou", "camara-legislacao", "senado-legislacao"],
+      "local_paths": [],
+      "connector_id": "planalto-html-listing",
+      "notes": "Consultar fontes externas e marcar cada ato como externo ao snapshot até a ingestão versionada."
+    },
+    {
+      "scope_id": "federal-jurisprudence",
+      "jurisdiction": ["federal"],
+      "normative_types": ["jurisprudência", "súmulas", "precedentes"],
+      "status": "not_covered",
+      "source_ids": ["stf-jurisprudencia", "stj-jurisprudencia", "tst-jurisprudencia", "tse-jurisprudencia", "stm-jurisprudencia"],
+      "local_paths": [],
+      "connector_id": "tribunal-jurisprudencia",
+      "notes": "Nenhum precedente deve ser apresentado como pesquisado enquanto não houver registro de consulta e citação."
+    },
+    {
+      "scope_id": "federal-infralegal",
+      "jurisdiction": ["federal"],
+      "normative_types": ["atos administrativos", "normas regulamentadoras", "resoluções", "portarias"],
+      "status": "not_covered",
+      "source_ids": ["dou", "cnj-atos", "trabalho-nrs"],
+      "local_paths": [],
+      "connector_id": "federal-infralegal",
+      "notes": "Exige conectores por órgão e verificação de competência, hierarquia e vigência."
+    },
+    {
+      "scope_id": "state-df-legislation",
+      "jurisdiction": ["estadual", "distrital"],
+      "normative_types": ["constituições estaduais", "leis", "decretos", "atos locais"],
+      "status": "connector_required",
+      "source_ids": [],
+      "local_paths": [],
+      "connector_id": "uf-legislation",
+      "notes": "Cada unidade federativa precisa de fonte oficial, identificador e política de atualização próprios."
+    },
+    {
+      "scope_id": "municipal-legislation",
+      "jurisdiction": ["municipal"],
+      "normative_types": ["lei orgânica", "leis", "decretos", "códigos", "planos diretores", "atos locais"],
+      "status": "connector_required",
+      "source_ids": [],
+      "local_paths": [],
+      "connector_id": "municipal-legislation",
+      "notes": "A busca depende do Município e não pode ser inferida a partir de uma norma federal."
+    },
+    {
+      "scope_id": "collective-and-private-rules",
+      "jurisdiction": ["setorial", "contratual"],
+      "normative_types": ["convenções coletivas", "acordos coletivos", "contratos", "regulamentos internos"],
+      "status": "not_covered",
+      "source_ids": [],
+      "local_paths": [],
+      "connector_id": "collective-private-document",
+      "notes": "Exige documento do caso, período de vigência, âmbito subjetivo e territorial."
+    }
+  ]
+}

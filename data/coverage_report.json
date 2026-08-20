@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-08-20T19:48:33.785401+00:00",
+  "local_record_count": 403,
+  "local_corpus_files": [
+    "leis_complementares.md",
+    "leis_ordinarias_2026.md"
+  ],
+  "registry_coverage_counts": {
+    "partial": 1,
+    "not_covered": 4,
+    "connector_required": 2
+  },
+  "federal_family_counts": {
+    "official_external": 8,
+    "local_snapshot": 2
+  },
+  "connector_count": 6,
+  "source_count": 12,
+  "limitations": [
+    "local_snapshot não certifica vigência",
+    "fontes externas exigem consulta e registro de data",
+    "Estados, Municípios e documentos coletivos precisam de fonte própria"
+  ]
+}

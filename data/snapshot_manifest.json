@@ -1,0 +1,4076 @@
+{
+  "schema_version": "1.0",
+  "snapshot_id": "2026-08-20",
+  "generated_at": "2026-08-20T19:48:32.519254+00:00",
+  "collection_reference_date": "2026-08-20",
+  "parser_version": "3.0",
+  "parent_snapshot_id": null,
+  "record_count": 403,
+  "files": [
+    {
+      "path": "corpus/leis_complementares.md",
+      "size": 5132477,
+      "sha256": "e27fcb0147528539b25e068b4a91c21f2fa01ecffb94a1d533d695bf1f723fb5"
+    },
+    {
+      "path": "corpus/leis_ordinarias_2026.md",
+      "size": 1675764,
+      "sha256": "1ebc359432a713cb1afc4421823addc1387970e16cfe7b2ead467b7a1b3212cf"
+    }
+  ],
+  "metadata_files": [
+    {
+      "path": "data/source_registry.json",
+      "size": 9956,
+      "sha256": "2b1006c68b4d504fdda57b898e35eb8af7e252807bc942e7f2a5724434b3cd06"
+    },
+    {
+      "path": "data/federal_source_catalog.json",
+      "size": 3993,
+      "sha256": "0e7fb166cbc3bd3dca5d8473b1d0fd32336e66d9d7a03d789c22246c798d39a8"
+    },
+    {
+      "path": "data/source_harvest_manifest.json",
+      "size": 4265,
+      "sha256": "04999ed60049ad177aace4281ba4a9b8ab3ff98174edc45c86a24cc4b4053939"
+    },
+    {
+      "path": "data/connector_catalog.json",
+      "size": 3054,
+      "sha256": "fcdafc07b64d01b2453aedba208d60eb6ac3b2d1581919b0af1c1d8103bb5bb6"
+    }
+  ],
+  "records": [
+    {
+      "id": "lei-complementar-234",
+      "kind": "lei complementar",
+      "number": "234",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/lcp234.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "236df7490db77d160bf5e37b46f5fddaf3b0a137e712151c562960a4ead0d713",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-233",
+      "kind": "lei complementar",
+      "number": "233",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp233.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "80fef28a69241f2e218a487f2e4906d01431461a9b33ec4f492ad659f368fd18",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-232",
+      "kind": "lei complementar",
+      "number": "232",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp232.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "aa625a7181770d062dbbbc123e6db53aa7c78ff786dd904b2330cd5f82ff7fa2",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-231",
+      "kind": "lei complementar",
+      "number": "231",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp231.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "a57238d0a829c367cc7ccebd2e935d877b60602b04b0b7a646f1b590c5fa0544",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-230",
+      "kind": "lei complementar",
+      "number": "230",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp230.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "31878a32f206b11778c0b0ecdd68d8380d2d1d81abe105953d0c8f036c892077",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-229",
+      "kind": "lei complementar",
+      "number": "229",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp229.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "b1f21509bf71c3bfdc05c148c738b1363cb0d940c07df3e3d09a8999fc0c3c8a",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-228",
+      "kind": "lei complementar",
+      "number": "228",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp228.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "3e1f794684bf9067b21aad6e2f67dfe35001bef968285d5238b02ae6e87c19f1",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-227",
+      "kind": "lei complementar",
+      "number": "227",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp227.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "dd5dc6a128beaef2c2adaf4d8f522683ec6960096eda07ad2fe9c4bfe838cad1",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-226",
+      "kind": "lei complementar",
+      "number": "226",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp226.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "ac2777bf375098f8ef60403ef42e918628db3776daa88edae8fd5a5d49e65175",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-225",
+      "kind": "lei complementar",
+      "number": "225",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp225.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "cae42515fd24afaa8c945cab0034a910ad0fbb5dd4659d96c96a8d01b2eae027",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-224",
+      "kind": "lei complementar",
+      "number": "224",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp224.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "f8ff4a87ad7b5072299ceb36c97e78b9c603b35e740f050c2d4b19f8360ad6ec",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-223",
+      "kind": "lei complementar",
+      "number": "223",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp223.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "86594edad960fe753679970804d06431321194c7c323a5e54495e3d160e9d112",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-222",
+      "kind": "lei complementar",
+      "number": "222",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp222.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "b0cf3cba5c77ce34b866be32de5274ab3ea9daa3106fca61b1e88eb233caa13b",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-221",
+      "kind": "lei complementar",
+      "number": "221",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp221.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "3bd8cdd20b42d68761727b2299581d1f3c68712eee538c07c6d55ae7de4b4641",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-220",
+      "kind": "lei complementar",
+      "number": "220",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp220.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "603204ab3359b878f719338c7fa1d4a41793accac9e575396413c0c23f57bb94",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-219",
+      "kind": "lei complementar",
+      "number": "219",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp219.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "98f19e0262f718e97cc7797cb0be20f31be4a571986b32a155dafaf9266911f9",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-218",
+      "kind": "lei complementar",
+      "number": "218",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp218.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "c3f2b52d181c42af96ae25e21316c10102a362a2f9f357a5fbfa831df7a909ec",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-217",
+      "kind": "lei complementar",
+      "number": "217",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp217.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "cf33aa4efef747176fcc30bc22617659c01ed4ea7f6889c757176745b7c38f65",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-216",
+      "kind": "lei complementar",
+      "number": "216",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp216.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "f657fe049929ad6193cc663492726c19626bcf05503e38537cca022247d0ba4c",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-215",
+      "kind": "lei complementar",
+      "number": "215",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp215.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "894cb121d4adb7ec54d3ce8f3ba094cf137746675bbce25511baedbb00064740",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-214",
+      "kind": "lei complementar",
+      "number": "214",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp214.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "8d1390add63a474ed6f4bca3da6b6c2255bff058e0d8f618f5c9ba581306ad91",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-213",
+      "kind": "lei complementar",
+      "number": "213",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp213.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "b7bbf07d1c30c9fc9df6e2d78a658717c9a006f4d7e4a236a497c4c87c91fb73",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-212",
+      "kind": "lei complementar",
+      "number": "212",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp212.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "41a3ada0fd9f34fde141c31d55f0bf12459f6cbacd05ef155a91ba788468ac5a",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-211",
+      "kind": "lei complementar",
+      "number": "211",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp211.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "e94a3084182e27a53809932d6b452765b9e6af84dc9477a6750a2f32c2fc9be0",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-210",
+      "kind": "lei complementar",
+      "number": "210",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp210.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "c9dfca4ce717d3d0f216c73402ff3384a90b362bccfb4d0694ff11f8e9513d4b",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-209",
+      "kind": "lei complementar",
+      "number": "209",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp209.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "eeb65a398780af7bca090146803ccf2f569c33e0d107536469aba636662879b3",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-208",
+      "kind": "lei complementar",
+      "number": "208",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp208.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "d1cc31c68de33d7e34d1d7708a15e9f300d171d3bbaa7a8788fa5cdf84ab9c7b",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-207",
+      "kind": "lei complementar",
+      "number": "207",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp207.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "d0d423c96ed87e717ef07de36c08de1b7595adea0f676440c5366355996978dd",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-206",
+      "kind": "lei complementar",
+      "number": "206",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp206.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "1b46f9b8b5633676fec7856dad33086367a2619ff6a6ed070c42a62825a46c6b",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-205",
+      "kind": "lei complementar",
+      "number": "205",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp205.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "9d6bc50e8274a6f5611c859d7ebc77da669990c66a55a78d61338c9e225a2296",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-204",
+      "kind": "lei complementar",
+      "number": "204",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp204.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "3acb956c62a5a23c1c1c74c9b031e5ed646db1fe3baa94ade96f59c58753a63c",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-203",
+      "kind": "lei complementar",
+      "number": "203",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp203.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "76c825260dbccf2781e12fe6586caf6ec5a0f1b3fce6bb7b64e0538837961b44",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-202",
+      "kind": "lei complementar",
+      "number": "202",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp202.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "1ec97fdd36c17ce792d9414744abdb03950de2c8c79189e7174d37a22e41478c",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-201",
+      "kind": "lei complementar",
+      "number": "201",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp201.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "2f1c671de5205ae80aa5c191b0cd7b8ea1741094d995ede5cf4df045074b850e",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-200",
+      "kind": "lei complementar",
+      "number": "200",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp200.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "339716b9504a44278158938a11ccdfcba488875dc4c234c4428d1dad864222f0",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-199",
+      "kind": "lei complementar",
+      "number": "199",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp199.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "bd61e13a5f8dc57a6e7d6409c84816381c7b2f50c5c659d5d37da10ed237e6fb",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-198",
+      "kind": "lei complementar",
+      "number": "198",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp198.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "94948f14d243c61c13e03ac7111eee3ab10ee756cc2cbfaacf90f6cb415a7f8f",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-197",
+      "kind": "lei complementar",
+      "number": "197",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp197.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "ef2a531819f85dfb9a03aecb26dc6cc0d2da36e9f458b1a3876f872df525d1f2",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-196",
+      "kind": "lei complementar",
+      "number": "196",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp196.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "4fd70344cad8ff01f40679887ff25cc5f8683c5da0b5f461aeaae2896394392c",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-195",
+      "kind": "lei complementar",
+      "number": "195",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp195.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "4bf93c83490b3738a40abc3e30bb61c5ac162789f55f5a9ab493abd94b4eb020",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-194",
+      "kind": "lei complementar",
+      "number": "194",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp194.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "d85f7a3b65d1dd71791f34a0fd4d5cabf08288e2cfffed34d584fb0d83e174b2",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-193",
+      "kind": "lei complementar",
+      "number": "193",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp193.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "9e603f4c0527723c6f464400087fa1577574b0653c44014af19fb2ac2c061886",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-192",
+      "kind": "lei complementar",
+      "number": "192",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp192.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "c26fbdf8b4e556433c93c1546c53c19f44ac3f4841eb5ac94ff462f8ae9aecc3",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-191",
+      "kind": "lei complementar",
+      "number": "191",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp191.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "bc4e89f688770ffb3861e05e17d13476ebc2611fb849f0451874766b0add6cc7",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-190",
+      "kind": "lei complementar",
+      "number": "190",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp190.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "7741b4fd224329190f1cdeda1c8493466ba8e9fd8c31007e2bde132f58da1de4",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-189",
+      "kind": "lei complementar",
+      "number": "189",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp189.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "f182d95847941feae99994f040aec9b71416d946a7130d0594768025e0c87c27",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-188",
+      "kind": "lei complementar",
+      "number": "188",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp188.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "ec0df622ea4598f24d04c9c18a9662d4b07128ac311b6fdc1a8a93805ee00610",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-187",
+      "kind": "lei complementar",
+      "number": "187",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp187.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "bf1947538f91a1f02f959e9456f6d6760ebc6134d9b5f15f1b9439fc289c1855",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-186",
+      "kind": "lei complementar",
+      "number": "186",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp186.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "bb90a39e5764ba97631879c1b26535081410f99519a38ff8025a45cf3c75ed64",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-185",
+      "kind": "lei complementar",
+      "number": "185",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp185.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "807e24debbb95cf9c9fa68b553005836155b15e10a34b29852bc7f0d276893bc",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-184",
+      "kind": "lei complementar",
+      "number": "184",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp184.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "75077f05e8273c16fa1b3e2ff86b24bf2817e2eb20bb397efa6c207c866633a5",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-183",
+      "kind": "lei complementar",
+      "number": "183",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp183.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "781a10c5b254470c131ecdb0201ddd0fad60e14dae680593f127c70a45386960",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-182",
+      "kind": "lei complementar",
+      "number": "182",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp182.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "16563b150f6e1f48f439857ec576f3e04f3057df6c66a2257f9ac08b910e0220",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-181",
+      "kind": "lei complementar",
+      "number": "181",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp181.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "7db3be8e6144f744c011041a71895fb0ac9bf697451ef716e1220667d2f8ef80",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-180",
+      "kind": "lei complementar",
+      "number": "180",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp180.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "49fe626cc187e60882b9f490416272a7491032d852c8dff54c8e03505dfc93b6",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-179",
+      "kind": "lei complementar",
+      "number": "179",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp179.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "9797957e53fb237467003e0cc180b65cc82e1ad9d4ad3f0b3af96cdfea36e797",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-178",
+      "kind": "lei complementar",
+      "number": "178",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp178.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "256eefd5b4bd1155c3b5fb371a6e2bf51cc19e18661dc0fcd365bca21a47a4a4",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-177",
+      "kind": "lei complementar",
+      "number": "177",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp177.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "067f186d5dcef047e432a065e2328d2685c97fb555efb1bc1d9c6b31e7ee41a6",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-176",
+      "kind": "lei complementar",
+      "number": "176",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp176.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "8c41c64a9a09d4e5d62354a16f0636f674b7cfee79d2d4d57b9d8100504a84b2",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-175",
+      "kind": "lei complementar",
+      "number": "175",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp175.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "9b4287e20d5ce12570c60f84f90f5c3e7e38bac426e28f62e977f4a94914ad61",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-174",
+      "kind": "lei complementar",
+      "number": "174",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp174.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "75fa13bf54c8d0d3b8b2c45b2e345b247393fe7699bf18a883ee86f9675da84e",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-173",
+      "kind": "lei complementar",
+      "number": "173",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp173.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "f554fec0203356c4d0a8ec6f3bc402101065526c32c3d24de99869270ac5e27d",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-172",
+      "kind": "lei complementar",
+      "number": "172",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp172.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "7699606f0451bf2599bf8bccbdcaa8c5090ec550d698304457ed5677936ab5a8",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-171",
+      "kind": "lei complementar",
+      "number": "171",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp171.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "cde8b72f5a7e4c7b3318fd1cf3c83e3d2510645713b6c2db17d95bbd33678463",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-170",
+      "kind": "lei complementar",
+      "number": "170",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp170.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "210db23df49f725d8b9e995825e4c9718bbfed21a9a261e2cc62b3e319f15539",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-169",
+      "kind": "lei complementar",
+      "number": "169",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp169.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "58a74e9ab0672f688aa977d1f7219bf9e8480d682555b7b4b90e30ee7ffb7c42",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-168",
+      "kind": "lei complementar",
+      "number": "168",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp168.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "30556d3c633e769d989e3cd3f57b1c047cd3c9205ce148437feccf8f99389bd2",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-167",
+      "kind": "lei complementar",
+      "number": "167",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp167.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "fe22840f198c69a615639773b36c0ed256318ca8db6c2334550836bd9fa18b5e",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-166",
+      "kind": "lei complementar",
+      "number": "166",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp166.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "d70663d90a06fa580ffb7322c9fa97a82b26c64c5d5d2309a44265b16cd548ae",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-165",
+      "kind": "lei complementar",
+      "number": "165",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp165.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "664850b0797331070edc1e9a6a08be6a9ab4bbe5e62c792586e1ec130c3bd0b7",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-164",
+      "kind": "lei complementar",
+      "number": "164",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp164.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "3d664d318c60dec135d161c50949dfb3cccea0a235b1999a70ece751cf8ec89c",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-163",
+      "kind": "lei complementar",
+      "number": "163",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp163.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "857040dd2e37a47ee1ca6d3b03b38d43d503d170f5324ae87c31f201ed9c59e4",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-162",
+      "kind": "lei complementar",
+      "number": "162",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp162.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "dbf7d3f53af543e99c306eed20568e8bf274129506eed1411984ba5061d7dd21",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-161",
+      "kind": "lei complementar",
+      "number": "161",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp161.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "3e46da5d47610c78dd05d7959766c5e5de249ea7958725194203a583c91bc11d",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-160",
+      "kind": "lei complementar",
+      "number": "160",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp160.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "ad9509b9cd12d4e4504a57125af6aa95e9d1de684d5a9ee5a9913fc17af58b72",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-159",
+      "kind": "lei complementar",
+      "number": "159",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp159.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "09e52b56ee2a1e1df5dfcaa691e2c0739b05fd07f8fcb2b16eb1836b17ed3cea",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-158",
+      "kind": "lei complementar",
+      "number": "158",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp158.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "1b59cb150164eb6fbe80afcb7c955e1e6acd81296448b40510f65960b3053ff6",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-157",
+      "kind": "lei complementar",
+      "number": "157",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp157.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "7c552dff0e0598e3a8aadd3c34dfae9bdcb9beea3cad19b9f3f4ae462e7e8d97",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-156",
+      "kind": "lei complementar",
+      "number": "156",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp156.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "b75841cd5f4e9be1dacbfe882469ba03a1bf2d5251230694e7f6c7262b2bba3b",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-155",
+      "kind": "lei complementar",
+      "number": "155",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp155.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "4c80ad7cd64c81a14f1bb14508d3a90ba6b5bfbedbdca6592a84de1b5a5e33ae",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-154",
+      "kind": "lei complementar",
+      "number": "154",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp154.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "1b8032777da89f00285b960e41497e4cad7a615e6ebcb40ff463a1e9ea3a74d9",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-153",
+      "kind": "lei complementar",
+      "number": "153",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp153.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "4c1c659d12ed2e4fb730534300777440f77df8eb9618cca0441131cba7b11e78",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-152",
+      "kind": "lei complementar",
+      "number": "152",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp152.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "8b5b8495db255649643e28a8fcd58ca2a42ed6b2f3376a39c4f9c10dbea61f31",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-151",
+      "kind": "lei complementar",
+      "number": "151",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp151.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "c91139ae8025da72bdcb158c7244d9542808096a72e13beeba2a75425613618d",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-150",
+      "kind": "lei complementar",
+      "number": "150",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp150.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "7c253e1936a9a4cb7cc0a98293ad7c80d7a29dce0c61876efd9ee38674c3a2ad",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-149",
+      "kind": "lei complementar",
+      "number": "149",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp149.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "a56a2e3ed6d434619aecad42fa43919a3917a5b5e8202af9ba08e1a1f23c2b3d",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-148",
+      "kind": "lei complementar",
+      "number": "148",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp148.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "cb70d6fd72d18b5dc701f289f6d851c3a825e9bcd8a108425c1f8a39a32e9ca3",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-147",
+      "kind": "lei complementar",
+      "number": "147",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp147.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "f97cf61540929e7bc6b079d543b9c69bd408e3a19b99b0df16b622237fa53160",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-146",
+      "kind": "lei complementar",
+      "number": "146",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp146.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "869f7a7ef773a080bca4507780ac819e641a7fbd7797c1d969fb166109f6cb37",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-145",
+      "kind": "lei complementar",
+      "number": "145",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp145.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "6420590d7cec9bf7ef306850a3bbbf8c7da32e10e94e7afd0a8299b63700c2e3",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-144",
+      "kind": "lei complementar",
+      "number": "144",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp144.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "06534443cbef46b1eff80cb97df0ee8a71719500bfdb9fe19af9a36ed6feefd5",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-143",
+      "kind": "lei complementar",
+      "number": "143",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp143.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "61b13e4fa3185958403a24d2101f2ae6790d469f876c2b1c15b2f2d530e1bbde",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-142",
+      "kind": "lei complementar",
+      "number": "142",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp142.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "ceb492667bec5170e4bfd0ba3d18b621fee553b5c726746503f76e893cb3729c",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-141",
+      "kind": "lei complementar",
+      "number": "141",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp141.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "e9a340622cf3b65ef1e4248c3c81d80c8fd2769aacf4d43c880b6f4380d9e4f4",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-140",
+      "kind": "lei complementar",
+      "number": "140",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp140.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "a9152deaa577e1a8a9b6271099226b235c941c220948a7fd75080a66a743fdb9",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-139",
+      "kind": "lei complementar",
+      "number": "139",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp139.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "efcdb58f70b43f533f460b6989587b37d6ece9c81e2256a910636181770eff3a",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-138",
+      "kind": "lei complementar",
+      "number": "138",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp138.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "c3328869d0d7b997af52c5b75acceed24b4406ab4ca630410982388800f3f8ec",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-137",
+      "kind": "lei complementar",
+      "number": "137",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp137.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "a740ba028e8c23f9740d69c65520220a5ab8a9a31db30287070da1685a60c2c8",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-136",
+      "kind": "lei complementar",
+      "number": "136",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp136.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "f4b198607192648c28b61c2efe535599f2235d75b220fc6e056bc3cd99d2a640",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-135",
+      "kind": "lei complementar",
+      "number": "135",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp135.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "9c9a498807342eeabce3f8a588bf5f432582e15d72476574343e45fbb23b6392",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-134",
+      "kind": "lei complementar",
+      "number": "134",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp134.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "27d176a955aa0018f4045e8f22a00cecfbf0e65b8b8ee53eeb9955d8ad0fae95",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-133",
+      "kind": "lei complementar",
+      "number": "133",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp133.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "a9fe63527f02d45763a16f8ef53a90d4cea7fe5c146891dda59559777235c842",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-132",
+      "kind": "lei complementar",
+      "number": "132",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp132.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "6672dc5f2ca7303ff941ae9f65937f6edbcec75c8869ae45526fdba404a5c3a4",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-131",
+      "kind": "lei complementar",
+      "number": "131",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp131.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "71b6cf06e980f78131a68644ee56916544b3a5e1237a761f5755ad44e116c081",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-130",
+      "kind": "lei complementar",
+      "number": "130",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp130.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "d09ad0d88b589efc7ed89d0e79f289bd3210b91ff26b1969d7b0a1c3322114c6",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-129",
+      "kind": "lei complementar",
+      "number": "129",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp129.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "4db0cce25cfecd3cab8aefc811d7749c7f75f2e94682f9c824e33acbc560502e",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-128",
+      "kind": "lei complementar",
+      "number": "128",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp128.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "2c3bf38fc33df4a22e8ccf91ccd0289dacf69ad3c8fba9f3a16852932907d213",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-127",
+      "kind": "lei complementar",
+      "number": "127",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp127.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "b1ca1e82b9e8fcbf829c1df063f2626a4e059695e1cbd8eb142f037c786fb059",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-126",
+      "kind": "lei complementar",
+      "number": "126",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp126.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "cd203279d3ee8ac4ccec580070425a9bd25e679780d273e391485d22f4e5caf5",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-125",
+      "kind": "lei complementar",
+      "number": "125",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp125.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "dbb6d8ea87ed850fbd8e1fd621ad41891a611d48c9ec06498389236951fc8c25",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-124",
+      "kind": "lei complementar",
+      "number": "124",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp124.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "81d5b6d453bd10da4c6213d54278e058d3ee2f90524e7f96afc6d5c5270e4de0",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-123",
+      "kind": "lei complementar",
+      "number": "123",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp123.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "a39ab3f0b1ed2a18d30f3f4f5433487b36c30288970464d0bc002effb88c7a6a",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-122",
+      "kind": "lei complementar",
+      "number": "122",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp122.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "a9126745cc6b7ba1a7e632c675304339fd45fbfd01a26ed2df7c9faa4566b430",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-121",
+      "kind": "lei complementar",
+      "number": "121",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp121.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "ac783826926c06feda97d5a388d79032e27da4b3fe79d8bb7755626dec5f1ea8",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-120",
+      "kind": "lei complementar",
+      "number": "120",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp120.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "a0694c4f9cc2acea5ce98fde8ba3b08b575c01062b736b832a4c1a03168c2dbd",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-119",
+      "kind": "lei complementar",
+      "number": "119",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp119.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "e89c14a9f29f67c01eea9a40681daac4da6cef837a40ac7b552bc824018a12f6",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-118",
+      "kind": "lei complementar",
+      "number": "118",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp118.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "76203c9f321b42121a52d1aa4d3cc966030d66d5fc09c12002a003093d3b4128",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-117",
+      "kind": "lei complementar",
+      "number": "117",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp117.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "1763d6f65e740d0011d6eadb09e3be1f544e46727f6f33cfec76ec04b4db60d1",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-116",
+      "kind": "lei complementar",
+      "number": "116",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp116.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "39c63dc270058b6c0c504e4cc4bda954a330ef9c40649a2e801251ef8a1bd4ac",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-115",
+      "kind": "lei complementar",
+      "number": "115",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp115.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "3a96461031fc2e40b8eadf6b0cfc609c410a899238b59cd693351f2b572b0479",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-114",
+      "kind": "lei complementar",
+      "number": "114",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp114.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "3e9165bc1a2e6531bd8f95d75aa1f950fc6783dac3a81fc240e1889ea45eaff4",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-113",
+      "kind": "lei complementar",
+      "number": "113",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp113.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "f623282151145b8be553c1c11ee17420e7bf3541529a3ae3332558f06772777f",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-112",
+      "kind": "lei complementar",
+      "number": "112",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp112.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "a96672d8efb1d69646d15f482352137ea133f14c31b3ca1e59f6449cc3be3a70",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-111",
+      "kind": "lei complementar",
+      "number": "111",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp111.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "1068d75bcf16e86113937509bc54731a4207cc05302cf705b0c24d5b39b98561",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-110",
+      "kind": "lei complementar",
+      "number": "110",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp110.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "e2aef74f47f23713c470a975a11188edad196f8e10017aa99970e98a1f60a652",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-109",
+      "kind": "lei complementar",
+      "number": "109",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp109.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "12f0b6ef3a084ed33d14077d0553fe3c10942fb8ff7c8cf3953422be6de9c132",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-108",
+      "kind": "lei complementar",
+      "number": "108",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp108.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "7c43dc617f929b8d7e15090d0017817843cc36cb0d622ccebbe575babea37a12",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-107",
+      "kind": "lei complementar",
+      "number": "107",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp107.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "550145ebac96382a1d0d337d8824ef6daddd0e3ce42b9cdbc5515d61219a8c15",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-106",
+      "kind": "lei complementar",
+      "number": "106",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp106.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "7430edff20df1cc6ba033b1b55383297b46751d6064f10f2a0301ed1990d12ef",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-105",
+      "kind": "lei complementar",
+      "number": "105",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp105.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "4f0b077184cd68fda75a27c995110ae1ae573201f54cf3fc5edfad501ba37ef8",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-104",
+      "kind": "lei complementar",
+      "number": "104",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp104.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "ef795998054fca9c90023a8e5f9006bcae81e4ab240c92e3d5a40e0a282319c5",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-103",
+      "kind": "lei complementar",
+      "number": "103",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp103.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "59aaf7acdd10be7bae0b740773ffe2cf937fdf0f494f5deb7eaa7f8059cb8d08",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-102",
+      "kind": "lei complementar",
+      "number": "102",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp102.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "575d0b9a1e8d4f80a62949708cec369f0c04e42e31d8ad63f3f628378b0c729d",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-101",
+      "kind": "lei complementar",
+      "number": "101",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp101.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "16880ff40c10405f10904bf49df5b074b787b53be52e25e1f4219f6912fb496e",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-100",
+      "kind": "lei complementar",
+      "number": "100",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp100.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "97541bdf40260092edd9dc9dae7f5f173ed1d37489e85c8d515e203c2ece135c",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-99",
+      "kind": "lei complementar",
+      "number": "99",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/lcp99.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "e903d2ee49fc91514d3eb70e91c12db6d893055b1a42388844e5778b72f28926",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-98",
+      "kind": "lei complementar",
+      "number": "98",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp98.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "ba7bf61df09a970ea545b7b5142eb2ff052c3769ed992fbf56860e34af9f3f9e",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-97",
+      "kind": "lei complementar",
+      "number": "97",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp97.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "7909fc45b6c98ed380898b771c9d53f40e8615adc7da4158370d60dad7fdb842",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-96",
+      "kind": "lei complementar",
+      "number": "96",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp96.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "4d6b03eefee7bf862c77f5c2b5997e8b366350d51a486112c4dfc5e838c9d8f7",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-95",
+      "kind": "lei complementar",
+      "number": "95",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp95.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "5797ac50edeefc78ed61b268f383d5993726bb56dd9d231ed6c6962abccf389e",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-94",
+      "kind": "lei complementar",
+      "number": "94",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp94.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "89f9eb04561428a649bf7cfbb3b7a8b5683098fdcd4a94666c3c8799deaaa9ee",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-93",
+      "kind": "lei complementar",
+      "number": "93",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp93.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "c1683c672cdbad5c0a96f17d64913e6fc5178b58964d663078382331e23161ef",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-92",
+      "kind": "lei complementar",
+      "number": "92",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp92.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "ac1f27134c0ddfd827b77db7c5ffd088acbe547309ada9804b938b5e8544c924",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-91",
+      "kind": "lei complementar",
+      "number": "91",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp91.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "f2a8c61d855cf2de38639512061904c1e6a75f7e90bcc1aba6c0e238b8454582",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-90",
+      "kind": "lei complementar",
+      "number": "90",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp90.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "045327e5311ee7b020bf76f05540b7cfedc8a99d8a1cb55cb88868d42d79cf5b",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-89",
+      "kind": "lei complementar",
+      "number": "89",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp89.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "454cc1dc9cbd94fb066c143d755564831a92e22889317135a60baed2553a3da4",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-88",
+      "kind": "lei complementar",
+      "number": "88",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp88.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "aa63e2856785f917a51f447412f575c909f99a6a0fc102166c888c62125fcf17",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-87",
+      "kind": "lei complementar",
+      "number": "87",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp87.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "9a2c702d034246d0459d112570e58c48ca3658cb81c0f91707827b744b3ea946",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-86",
+      "kind": "lei complementar",
+      "number": "86",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp86.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "831f63b997ddecb21725244c1290ebb770255a7eb42afdb378c9c1eef90828f2",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-85",
+      "kind": "lei complementar",
+      "number": "85",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp85.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "8ed79cc767d53eeb5909b8f56460e3fe2277bb143d4e647e710e9b073806f853",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-84",
+      "kind": "lei complementar",
+      "number": "84",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp84.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "4e00589293f07af207b4324d98c9e6d435856ad537fd8f37a42483c862cc0ec1",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-83",
+      "kind": "lei complementar",
+      "number": "83",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp83.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "5f1ef0354058095ec80c612d481273645dfca322b9115b034f3598cf5c59bd88",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-82",
+      "kind": "lei complementar",
+      "number": "82",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp82.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "994bc33388aab8fbbb6bf1222ad36c7e597f8668447b33459456931743a48612",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-81",
+      "kind": "lei complementar",
+      "number": "81",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp81.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "0106dcf89c711fb7123263df673b08bf35700ef4c25924cf7bce4dc4ae594a70",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-80",
+      "kind": "lei complementar",
+      "number": "80",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp80.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "6378601f4fbc10e208794992ed769d0cd038ae078785e08a6fe6a23a1bec2433",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-79",
+      "kind": "lei complementar",
+      "number": "79",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp79.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "43e678e251e431d99e14cb0a92ef2466216341a43ef44fb40199954eb29cac6e",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-78",
+      "kind": "lei complementar",
+      "number": "78",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp78.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "c0b5b53301eaab394cf6babe90daf877f70cf3cc0a26c50795054b97d3a72c0d",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-77",
+      "kind": "lei complementar",
+      "number": "77",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp77.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "f721dc1cd4e614fb73d89ca57574ca31c006bf60bd4a5ea5b604906e0b77a573",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-76",
+      "kind": "lei complementar",
+      "number": "76",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp76.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "93274b484d96e5a7688cff41c17a90198afe7de9d0137ec0d130c080825099b7",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-75",
+      "kind": "lei complementar",
+      "number": "75",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp75.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "c3b00f08bfc242cde18e28075ec0772b54967344376f3b5c58e9a40bb906718f",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-74",
+      "kind": "lei complementar",
+      "number": "74",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp74.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "2a84f564e0aa22caa52a6a46b4de9834341422a3ca0a75beff02990a900a969e",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-73",
+      "kind": "lei complementar",
+      "number": "73",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp73.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "7708949d7afe567cf6f157aa71c7349c189b384bf95330b01e506cc0c7a729cd",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-72",
+      "kind": "lei complementar",
+      "number": "72",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp72.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "9d8c2a83198a5ffe96b768badf42dfb8d0b6a19b7d6cae001b2cb7061797b912",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-71",
+      "kind": "lei complementar",
+      "number": "71",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp71.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "7a480154036cc6646ace81663e3d3d71a22c0f7c7a2b412e6f89b40291b137b6",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-70",
+      "kind": "lei complementar",
+      "number": "70",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp70.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "da66d854bae15ca7df7150d03f23dafb9428dd1b4f0ef4ad4576ec32540c41dc",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-69",
+      "kind": "lei complementar",
+      "number": "69",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp69.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "133c4117e4468c46c59a478221e5d4dd2a472847b3b23409ef0bec79c84e9df1",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-68",
+      "kind": "lei complementar",
+      "number": "68",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp68.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "3023a708dd81439b3482428dadd14d1427af72d9525374f962d8e2ec21db8784",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-67",
+      "kind": "lei complementar",
+      "number": "67",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp67.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "7e4a4692d59862c6b84b8684011598c2a94ed57809ed287183b238b463d60d74",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-66",
+      "kind": "lei complementar",
+      "number": "66",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp66.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "a6f295ca3feeb28e6cbace73422f0ad14069f941a7acb99a123cbbe6a012c856",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-65",
+      "kind": "lei complementar",
+      "number": "65",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp65.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "6f2aa75db4998ac1a6d4779261929aad8d64559634bccffcfc9813e09a2c8db6",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-64",
+      "kind": "lei complementar",
+      "number": "64",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp64.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "e285afbaa7e9ae4fe96bb9b7fd30f2bfe3d9dce7ffaa2246b40df6c240e2c533",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-63",
+      "kind": "lei complementar",
+      "number": "63",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp63.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "ed919cbe011266c0532dcfba9dbd4cc2780a208900953f489adb9197f8e349cf",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-62",
+      "kind": "lei complementar",
+      "number": "62",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp62.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "19ce8ef853ad91a971b6e49b70ebfd024618266f389f89a3ef3074dba7cac354",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-61",
+      "kind": "lei complementar",
+      "number": "61",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp61.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "872381477b90e33d825fc755dd4067bf4f177624c69177f31ee95e725ac4b111",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-60",
+      "kind": "lei complementar",
+      "number": "60",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp60.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "0ecfe04c34270bfbe4d8e549965c52b665cfa922a78bff05351656b0c409f4a0",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-59",
+      "kind": "lei complementar",
+      "number": "59",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp59.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "e7571c48b862ab390698a8e267f46fa64587ecc0a7d73c2b8cb3967211f3737a",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-58",
+      "kind": "lei complementar",
+      "number": "58",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp58.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "5752a3ca0800060924ece0eb129e8db33509fad26cde91a0d2ef4203d4a23dfe",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-57",
+      "kind": "lei complementar",
+      "number": "57",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp57.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "a0d5afe9022b3180b0bbe9e24690f47d85d8c038daf09ad43a3a6b320a464400",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-56",
+      "kind": "lei complementar",
+      "number": "56",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp56.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "a37aef5f6be3341c459cd8279ca20f008a658ea9c11fe6d9349a47fa4787f78a",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-55",
+      "kind": "lei complementar",
+      "number": "55",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp55.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "6882336bb57baac3b21c030a16855c78bd9709dbd1235bff3a226cf0c4a2b14c",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-54",
+      "kind": "lei complementar",
+      "number": "54",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp54.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "d4d20db8dc64db92053d7fd1defb931e9120fc03a2e73d5c1b946273c0beed83",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-53",
+      "kind": "lei complementar",
+      "number": "53",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp53.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "e72e55d1d28938271098021a05410319da1a6641e6e3a217ef540a856de28453",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-52",
+      "kind": "lei complementar",
+      "number": "52",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp52.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "6bde7fa0f1814325cdce0f20af3bc7815abcc6bd3e0fe349cffcb956c9821527",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-51",
+      "kind": "lei complementar",
+      "number": "51",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp51.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "c5744c698ee2b4ea19f56008303476f216db9db64bf8e64efcfa242d2aa32c7e",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-50",
+      "kind": "lei complementar",
+      "number": "50",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp50.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "9f4682c94dd247f3d746f6c4b4ba0cb39ec9cefd3ff2b7b03b6b244969a2784c",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-49",
+      "kind": "lei complementar",
+      "number": "49",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp49.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "a8e076ead9e457a47065dcb86b9978565d318e89da5c1bdc680ce459b0571e02",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-48",
+      "kind": "lei complementar",
+      "number": "48",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp48.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "bde11509f7491d62d52425b603029cc9252a54f56004d1f4f27ea10e2341ca91",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-47",
+      "kind": "lei complementar",
+      "number": "47",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp47.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "b35c22e423cc736a9e73a863b8d6c6b4fbb370e28750fc8202c604f75c59c744",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-46",
+      "kind": "lei complementar",
+      "number": "46",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp46.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "753178e8545d9128d0813671addbbe4b29b35e9ee7cb13793385844b3491f4a6",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-45",
+      "kind": "lei complementar",
+      "number": "45",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp45.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "052f71abddac3ef6febe2c63b7f4e667d7a51e5f1f60c8eb8cd62f23bbe4010d",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-44",
+      "kind": "lei complementar",
+      "number": "44",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp44.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "3f631db609fc7b121828a85c7c28312408edf884c655c4bcecaab5d1dac3233c",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-43",
+      "kind": "lei complementar",
+      "number": "43",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp43.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "7420b65468438ff320e2ee2a88bc503a852dc87898a2266f75b0cc41e4a6764f",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-42",
+      "kind": "lei complementar",
+      "number": "42",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp42.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "588335e0144625b52c78d0b62aa44cf1196a051a47c736918254548bf372bf2b",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-41",
+      "kind": "lei complementar",
+      "number": "41",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp41.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "eb6c821e82a57d215ad77378eea0bb6b8deb718e6da5df9a64961d2c160bc053",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-40",
+      "kind": "lei complementar",
+      "number": "40",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp40.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "abe14c674be8ac607ed32a53a49924030266a11e71c5867dfc6830e07fcdd4c7",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-39",
+      "kind": "lei complementar",
+      "number": "39",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp39.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "a27648dbae8be5a9f4cab6ff523e7de1053c56b5c0c8586f452bb5ee068f2ff7",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-38",
+      "kind": "lei complementar",
+      "number": "38",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp38.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "60fbdebc657580ca4376acacdf7ca29b36be3f18cd1c66ad9e230260f36c572b",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-37",
+      "kind": "lei complementar",
+      "number": "37",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp37.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "05d0ae9db055debc0d648014d4bd8e5c47fcf4bb14094549b9553034b164aa7c",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-36",
+      "kind": "lei complementar",
+      "number": "36",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp36.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "aab13fb59e00ffa741678e580d1bb0ce66f2aa8be4b66f40e084cb1c7ff3bebb",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-35",
+      "kind": "lei complementar",
+      "number": "35",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp35.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "332c69cad33b3189870584fc1b13d2b6d4792b0d1160b97db2921ff30d08b781",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-34",
+      "kind": "lei complementar",
+      "number": "34",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp34.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "f8c03daa2aeebfeb489077f94caed9d38d2f241987c6847755f2d79405f0b70a",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-33",
+      "kind": "lei complementar",
+      "number": "33",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp33.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "c274d66390c45f15bcbf69a42ad0638f04626aa4aa9aec90f21939355c102d23",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-32",
+      "kind": "lei complementar",
+      "number": "32",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp32.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "d15ce0507162a7f5708af3febb2dbba125ed40b825958a11491ce02c3d8fbea4",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-31",
+      "kind": "lei complementar",
+      "number": "31",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp31.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "c8b52a0a86d665611b6894886b7687eb6bb3090c82ba002a1699f911622b5f63",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-30",
+      "kind": "lei complementar",
+      "number": "30",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp30.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "8c3f2011b93dac523155920ce261b4c769a9beb65724d206ab9569ead6c75a20",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-29",
+      "kind": "lei complementar",
+      "number": "29",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp29.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "a749c324d9674680d2c0fb0e6f03597c68d5d49c7a12f796e649ccdd27ad3c95",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-28",
+      "kind": "lei complementar",
+      "number": "28",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp28.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "f87c18a53df6bbe064a754051e3fd8ec4e8235d2df889eb64ea6fbd535a43aa5",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-27",
+      "kind": "lei complementar",
+      "number": "27",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp27.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "9910adf3f0ce6693f5a4025169015c5e4f1163441e37fb54f360d2e89f21a5bc",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-26",
+      "kind": "lei complementar",
+      "number": "26",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp26.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "e98bf663b005d4b803177bc57b1a56979cfebfa49e16de987ad2ae7ee4083c3f",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-25",
+      "kind": "lei complementar",
+      "number": "25",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp25.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "53355f568cc2886aa97c7b5ea24b97a64c55e93f2c3ee5e81198d5ccc6f8a4f9",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-24",
+      "kind": "lei complementar",
+      "number": "24",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp24.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "85d1eada4d91d0ba7fdafaa4b3798bde8ab7efd6c00017d71270ee598fdcb24f",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-23",
+      "kind": "lei complementar",
+      "number": "23",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp23.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "d31d8a74f552e7c5ea72ac86ffe73b9c0ee5e7074e59b5658dd8a421ef9d1d5a",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-22",
+      "kind": "lei complementar",
+      "number": "22",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp22.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "91564c72b8bd3a6a4ce3dd7da72c3eb47a7d65d89d450194d3d710599a64970d",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-21",
+      "kind": "lei complementar",
+      "number": "21",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp21.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "25c060ec74dd3089408ee5878704a94aa1637e4ef21766eab2dc378ade9ebb4c",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-20",
+      "kind": "lei complementar",
+      "number": "20",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp20.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "8b09a9dc357bd812a866e080a0a3002493e00a6fa9d7fa74e8dae3f7331a6f52",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-19",
+      "kind": "lei complementar",
+      "number": "19",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp19.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "05954aa973789c6d8bb9d77581946bc8d9c20b12df25886da33467cf7a604165",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-18",
+      "kind": "lei complementar",
+      "number": "18",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp18.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "1c537b3c4109567f22e43acb5b9483c65d94805ff8c3e5102db596cbf466a745",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-17",
+      "kind": "lei complementar",
+      "number": "17",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp17.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "41a0a9228282e830f2ec2d2ab0964fe94b67b87adbe2e3dddc34c343313b69d0",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-16",
+      "kind": "lei complementar",
+      "number": "16",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp16.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "08eacc8761b2f083cb1d39f67e9efcb001c54b98661ef7fcc7b33cf64ac5538a",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-15",
+      "kind": "lei complementar",
+      "number": "15",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp15.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "91d2422353de4ec1644c89c59440c54c6e904cb6c74194373d747f6cda7c508d",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-14",
+      "kind": "lei complementar",
+      "number": "14",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp14.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "65a5a1b64980aa11d339e5ed8752c6111ea14191c3fd1e2c0090883222a0cea2",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-13",
+      "kind": "lei complementar",
+      "number": "13",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp13.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "6da7838aa2782317632d232d69f42731fa71005badf335169be7ddd157c29255",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-12",
+      "kind": "lei complementar",
+      "number": "12",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp12.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "b5361786e2ee3918c61b02ff2f19e80e61852d1ba9fbcde76f41020ce541b5e8",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-11",
+      "kind": "lei complementar",
+      "number": "11",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp11.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "0d70ea37f21df49d7e1a4b8b7ae145fb965f610768775da16eb3da7c6006fdd8",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-10",
+      "kind": "lei complementar",
+      "number": "10",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp10.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "dd7dfa3bcf3c50fc99dde0ac04e85974499773a955aa28ad6853089f04762807",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-9",
+      "kind": "lei complementar",
+      "number": "9",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp09.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "2b6ff31d43db82fef9e432ac69b919c65c7a2a146d58f1543ee10bb6fdc72f44",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-8",
+      "kind": "lei complementar",
+      "number": "8",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp08.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "90ae8511b56afed9189941411908934667670be0ecf6ae31ac77c3bb25c3ec61",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-7",
+      "kind": "lei complementar",
+      "number": "7",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp07.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "eb9030e3ee8fc8fc13af914ecaa7fd428f5764c1912153cba475d170bb9d383c",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-6",
+      "kind": "lei complementar",
+      "number": "6",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp06.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "e75d5fc2deb3899ba872a25c6710de3dc04f3af54fe0a32ff7f5861b764efac9",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-5",
+      "kind": "lei complementar",
+      "number": "5",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp05.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "ea87570dc9fcdac2e8e7d6aaa56d1b7d3ce131896c050422a139145a44a11bea",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-4",
+      "kind": "lei complementar",
+      "number": "4",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp04.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "580a7cd928561bd65b57144927fe228799761ea76a44a5e52ba982f7e3b6bc65",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-3",
+      "kind": "lei complementar",
+      "number": "3",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp03.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "cbc5cb216790447b8eb16ce09a7677c381281ffd65e9abb180ae6bf4ce6e7f9f",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-2",
+      "kind": "lei complementar",
+      "number": "2",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp02.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "bcb57f971aae225a000859ba0cb0711c433065ccdbb64cb8819e0f0d1362d24e",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-complementar-1",
+      "kind": "lei complementar",
+      "number": "1",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp01.htm",
+      "corpus_file": "leis_complementares.md",
+      "content_sha256": "43a3007debf7b03ce6789a9a3cd96a531060817924376586c5d2a844833cfa98",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15490",
+      "kind": "lei ordinária",
+      "number": "15490",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15490.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "548cf133c5b173ca7e98852bcabf22b41f0aeca7602b8da5686a184d620e3ac3",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15489",
+      "kind": "lei ordinária",
+      "number": "15489",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15489.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "a1e86965a8c5419270890d3c48a7ac9f04dd8cf342b100fc4e77c3e0c79dc9b3",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15488",
+      "kind": "lei ordinária",
+      "number": "15488",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15488.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "da3458f94d2d047b06ae8efc2c64df524b209fc0609e08fcce1005b1cfb226f7",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15487",
+      "kind": "lei ordinária",
+      "number": "15487",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15487.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "7094687828af7d9786a85f407c1d3854a99ad7ff20d06728be0211f8f2dfadaf",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15486",
+      "kind": "lei ordinária",
+      "number": "15486",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15486.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "b938405cc7c3d85d87291e68add6826acf9df1340e5b010297ceea3d216a448e",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15485",
+      "kind": "lei ordinária",
+      "number": "15485",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15485.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "36a480eb14f4ad5b254a5fb41c374bb66aa1198277338a7306671bda8d9b769f",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15484",
+      "kind": "lei ordinária",
+      "number": "15484",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15484.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "7b4d4cdb7f2ad4020027b295acf70459a3e0918b1ceace9680c864658222f143",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15483",
+      "kind": "lei ordinária",
+      "number": "15483",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15483.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "58a4c6018dc32006c7d99e50e698724fec215172581b4a37d912df34ce0629d7",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15482",
+      "kind": "lei ordinária",
+      "number": "15482",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15482.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "f5bcc82541e23e99d55fdd4f275c0b98211ef9f19c5b9871a26ab15c473c715c",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15481",
+      "kind": "lei ordinária",
+      "number": "15481",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15481.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "5243996da857488ee7c78b3954c28097c6edc697a6bd7769ec31a142aefdf7a9",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15480",
+      "kind": "lei ordinária",
+      "number": "15480",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15480.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "d4a16538a1c006d8edee6600f37d80e4bbdbba8f1158f16c720a58638be6c9c2",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15479",
+      "kind": "lei ordinária",
+      "number": "15479",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15479.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "2503242fa45359b08e38b2f826026b1daec36bb882f91346fdcbb70dc6746436",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15478",
+      "kind": "lei ordinária",
+      "number": "15478",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15478.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "a71df714debe074a0930289de58972aacf4dc4ed86a33f8a5e15ab4ed8ddd41a",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15477",
+      "kind": "lei ordinária",
+      "number": "15477",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15477.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "1abc062dce892f5d9f439d05308aaf347039b0c91b0210317675878451b8127e",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15476",
+      "kind": "lei ordinária",
+      "number": "15476",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15476.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "a44dd24ebe33834a652ca2d0122a2009db8e8315806c41bdfa915580bb507103",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15475",
+      "kind": "lei ordinária",
+      "number": "15475",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15475.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "498dfc9c3e26a9965e9667ef25d465321d724847fa67e993d26f3d09d7655d62",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15474",
+      "kind": "lei ordinária",
+      "number": "15474",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15474.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "7a4a159e9ee35978dd9ef3f10a08b7de0b367066487bdbc6eeeec5295bcdd225",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15473",
+      "kind": "lei ordinária",
+      "number": "15473",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15473.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "ab64a194ffa439a7fd74634c8260bb04658476624e284dcca5b43c09f634d318",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15472",
+      "kind": "lei ordinária",
+      "number": "15472",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15472.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "2c43893c2116d11f14c5a28787ec491251730e6cc1b506933ede58a2727372ec",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15471",
+      "kind": "lei ordinária",
+      "number": "15471",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15471.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "ad7c13465f7a90415326e454e7440538214ce7515636dd0cccfd6f587fb5dcbf",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15470",
+      "kind": "lei ordinária",
+      "number": "15470",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15470.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "1d1da89e8baf43b0015f20d619c59eb68c1108b3375fbc995d880aae09f3668f",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15469",
+      "kind": "lei ordinária",
+      "number": "15469",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15469.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "c53101d5afedc05c733d3d2de496965d83b87f88da3fde0dd21e4e54d5967192",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15468",
+      "kind": "lei ordinária",
+      "number": "15468",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15468.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "4188798f4a514dc430463ef9d2a7fac013c9325324aef2e0c124f42d8fe47758",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15467",
+      "kind": "lei ordinária",
+      "number": "15467",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15467.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "be982ffd2b87ae0550071718fa33fab3f60b29b03aeabdd0c3c87ac8861bb464",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15466",
+      "kind": "lei ordinária",
+      "number": "15466",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15466.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "24327fb7fb64583db1852434e6c7369680b83d56151880a894592541a20d5a12",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15465",
+      "kind": "lei ordinária",
+      "number": "15465",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15465.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "c45e7d9fa94e0c0f8674ca86c3cf13f669fc1de82b665f8485cefa009a70487c",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15464",
+      "kind": "lei ordinária",
+      "number": "15464",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15464.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "446f35a80fe889a2f883bfb4bef37c694cb75f86ee35bc95c84f8f74be1376a5",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15463",
+      "kind": "lei ordinária",
+      "number": "15463",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15463.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "f79a166c158c86221cdbac1a0ac926cf1351c8f61feb84dc81c46e4c7fdb2508",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15462",
+      "kind": "lei ordinária",
+      "number": "15462",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15462.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "5e52715289c7ff6dd91d7297c540c74713e68857907ef49b1c7eef335ba6793c",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15461",
+      "kind": "lei ordinária",
+      "number": "15461",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15461.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "134fd209116af6061134bfe533e4a8fbfe5382cacb661cbbbffb86a78402e728",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15460",
+      "kind": "lei ordinária",
+      "number": "15460",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15460.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "9e9845dfeb0d6dd975c30992d74e66050d81d8b598f6108de4c904c882155dd3",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15459",
+      "kind": "lei ordinária",
+      "number": "15459",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15459.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "2e1b69989260e1314b5f99d81303d4c4d1030d61506f38fe4f4fe930912e930f",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15458",
+      "kind": "lei ordinária",
+      "number": "15458",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15458.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "51eaba6b0e5277734d7a1636012132d28b1a3658aebdd857ceb242617f30f95d",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15457",
+      "kind": "lei ordinária",
+      "number": "15457",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15457.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "8ddd7dd322ac68ee3e9d6d0e0ff0f9e81b29a16ee2ff853b6f3fef6820d48316",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15456",
+      "kind": "lei ordinária",
+      "number": "15456",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15456.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "a73dc1f0242259ace1b431cd847f1650a24b95a52028c255c781bcf388303109",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15455",
+      "kind": "lei ordinária",
+      "number": "15455",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15455.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "f2e6c9199892f5e749e226c851f3f714f99eb25df4c47a39c674a2d7e4a660b3",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15454",
+      "kind": "lei ordinária",
+      "number": "15454",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15454.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "0003f4b8cd10ce8d2e9403f7341e069db3f0229d7db760cffd7401593cca7892",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15453",
+      "kind": "lei ordinária",
+      "number": "15453",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15453.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "204fce98dd7aefa3cae5496e7b2ec9bfdee2c87149a8bd6a1b4fd29e7cd2c55c",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15452",
+      "kind": "lei ordinária",
+      "number": "15452",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15452.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "8778b3a1b1fcf58ce6f152b2b2b516599097c65359550501b4e848fcef97d5db",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15451",
+      "kind": "lei ordinária",
+      "number": "15451",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15451.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "57417fddfa1403a0d973074aa2bae6d059ab3c16f0c549f1fd4bded1f57909ec",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15450",
+      "kind": "lei ordinária",
+      "number": "15450",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15450.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "039b9fd835de6873ea3beb5eb8a9a122005382c94e2d162b430e0c821722b596",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15449",
+      "kind": "lei ordinária",
+      "number": "15449",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15449.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "0f312f77c8212d4668c5aeb8a0d15accec5e02c882a148773c0405da06031887",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15448",
+      "kind": "lei ordinária",
+      "number": "15448",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15448.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "9121dd95c14b5a46e5a37b8a28f70fd91b299b7313bf35150c8f63a53e9fa000",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15447",
+      "kind": "lei ordinária",
+      "number": "15447",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15447.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "e8cd73c9c77ecce629fa7c87d1826ecc105ed54f47df49f9e57745945502044f",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15446",
+      "kind": "lei ordinária",
+      "number": "15446",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15446.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "83e03d5c80e232be9dc17891293e2200b42655624eadbc3def17cc577e3fb69c",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15445",
+      "kind": "lei ordinária",
+      "number": "15445",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15445.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "f23f551f51540e85e9049c6368ec1b556f534a2a85c24cdf29d13c39bdab954c",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15444",
+      "kind": "lei ordinária",
+      "number": "15444",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15444.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "0c39bf6ac94946e99670b9640e2ba2362c567ee446a65fbac4d2550a0b292193",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15443",
+      "kind": "lei ordinária",
+      "number": "15443",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15443.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "60973fa7d3229c3c0b1b3b43e5ef597b84134c7334af0708cb9c1b6b8f161ba6",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15442",
+      "kind": "lei ordinária",
+      "number": "15442",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15442.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "4e1bca75ab701f09d5d92c94b33b5ff9ac04e0177eb71babc93b8d733e25d60b",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15441",
+      "kind": "lei ordinária",
+      "number": "15441",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15441.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "c858348e27bc9dc09c28073fec68d0530e5748aba66f06db96b5d473238f2ac1",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15440",
+      "kind": "lei ordinária",
+      "number": "15440",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15440.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "d68f793467bc1f1d1a2a1c494ae726892c0eb41cd4590670d2d2900fda1b6b67",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15439",
+      "kind": "lei ordinária",
+      "number": "15439",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15439.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "e8b72cef2d66b1a3afae3f34e39efb1638d4d8933766c795cd9d5432e4269e45",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15438",
+      "kind": "lei ordinária",
+      "number": "15438",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15438.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "8c452cca88df5ced1ea4cc2921adb519bf881fef7f078386fd1ba0860c3bc4b3",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15437",
+      "kind": "lei ordinária",
+      "number": "15437",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15437.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "ad106bb8c021aa5cd497b733bb8787c061709034c7c289e5b2d2afe93cdf7bcd",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15436",
+      "kind": "lei ordinária",
+      "number": "15436",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15436.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "43bd817102ba112fd72d412956d62cb15e131fca05cb6aa3de9e603c87710668",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15435",
+      "kind": "lei ordinária",
+      "number": "15435",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15435.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "88f22f4a6b5bb267ad7bff46463e3b928293c506aad9ad88f5c2c2eae3aadeeb",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15434",
+      "kind": "lei ordinária",
+      "number": "15434",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15434.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "120e56e6ff631e460900f7ad390e53607ce466d636d6b985a2a9faa553e983c4",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15433",
+      "kind": "lei ordinária",
+      "number": "15433",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15433.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "5bba6f57eb7628d6052a2c40cc9d47a5589175c1b03d378cd69a33bd1c5795b1",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15432",
+      "kind": "lei ordinária",
+      "number": "15432",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15432.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "eac94247967b1a5caf8d6d334f96519704543e58b3a59ad11fc38aa558b56283",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15431",
+      "kind": "lei ordinária",
+      "number": "15431",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15431.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "5456d8a36f51ee5142ed9ed8162af752558456f9c389990b1abf08e1629bafe1",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15430",
+      "kind": "lei ordinária",
+      "number": "15430",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15430.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "13a72f2ee4ba2a277032656ebb0b4f7ce9a474716e075063d068b9b1776c1d74",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15429",
+      "kind": "lei ordinária",
+      "number": "15429",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15429.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "118c00e878e4225957d917585a83472405a9600c6cb1897652409cf202493926",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15428",
+      "kind": "lei ordinária",
+      "number": "15428",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15428.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "257c48af12c43146459237c81d4418b3f455637d21f00227775d3c75bae59a30",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15427",
+      "kind": "lei ordinária",
+      "number": "15427",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15427.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "2c5652ab06905b81407478abf897f208482c8c6f8da7d334482dbd149cdc325b",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15426",
+      "kind": "lei ordinária",
+      "number": "15426",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15426.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "f5be9997dde3e6940dade4e63ae4c862e13547e687f2902e665d73397a7cd21d",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15425",
+      "kind": "lei ordinária",
+      "number": "15425",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15425.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "7281c423b81a9a61ffdb90db5282a9505f31b7454f7351816ca72f9bf443a083",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15424",
+      "kind": "lei ordinária",
+      "number": "15424",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15424.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "4e6d7ca27b040509423603b1dee23f95e61aefd27a5227c0ca5ea5129b886f37",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15423",
+      "kind": "lei ordinária",
+      "number": "15423",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15423.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "fa8080e0901da4ed34e52317812730d1dc4bcea1897486701bd4dbb540313907",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15422",
+      "kind": "lei ordinária",
+      "number": "15422",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15422.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "f9020618eccd2a01619766f2cfed4a38adb93f175939f7b894316dc2b78d0884",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15421",
+      "kind": "lei ordinária",
+      "number": "15421",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15421.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "71afbfeda60bf0ae5907638adde4d4f2b204869939be0008afa3839ac0733472",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15420",
+      "kind": "lei ordinária",
+      "number": "15420",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15420.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "fc92006b2d19dfc053a113606052cfa7e2e9eb0c41f12c665e71b36b72850eec",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15419",
+      "kind": "lei ordinária",
+      "number": "15419",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15419.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "99eef3dd3492c0231aa65deaf4c80d1111fb002d4a8eb94590bf3a7db13ffe23",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15418",
+      "kind": "lei ordinária",
+      "number": "15418",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15418.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "eda81048fbc6eb68b7a28135f0229fb469077ea28b1d68b0ea5936d2c21906b9",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15417",
+      "kind": "lei ordinária",
+      "number": "15417",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15417.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "296aaa922746d92822bd5c94f9488c378dabe1abd0ea8c09a3f5d3533ad96267",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15416",
+      "kind": "lei ordinária",
+      "number": "15416",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15416.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "524f857f2bac703152a8e6e747f6b60ee559aee60d9626c6b5e3bf4da3e3f6b2",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15415",
+      "kind": "lei ordinária",
+      "number": "15415",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15415.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "04ba8b7f79e8492d4a6335f78c4430450bbf29761b40b6120105b51cd413b670",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15414",
+      "kind": "lei ordinária",
+      "number": "15414",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15414.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "4a7683ff0bee10e20b036c0d0292ba6daa1fab48eae913e6e1ac66db33c1f40d",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15413",
+      "kind": "lei ordinária",
+      "number": "15413",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15413.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "79fa36894e8af263bae0eae5d6b57370e7fbb0e8630c759eb12f79208d8e430a",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15412",
+      "kind": "lei ordinária",
+      "number": "15412",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15412.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "3e5896646e724a061ab5be7bb7433aae743630fc1056ee709b8953f7073696ad",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15411",
+      "kind": "lei ordinária",
+      "number": "15411",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15411.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "0fe6b8141abeae08021a49aff721a43aa454f14056259efe5358b5ed7e0047fb",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15410",
+      "kind": "lei ordinária",
+      "number": "15410",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15410.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "45847cc10c2704a0deb7e73bb524134211246e29ffd8d29a665374fd807d72d7",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15409",
+      "kind": "lei ordinária",
+      "number": "15409",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15409.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "fa251275978d8cc76adb37ffe094ee9f1665325ccba3bcfd71b6be80fb6a03cf",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15408",
+      "kind": "lei ordinária",
+      "number": "15408",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15408.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "969a32a3ea2411672bab530a2f86779ef1673745d996b5f4901c3d1f4f92939c",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15407",
+      "kind": "lei ordinária",
+      "number": "15407",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15407.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "2d1dcae761145aa5a33d1d2d25866298b447c9b7829dacc053f9f891a30832cf",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15406",
+      "kind": "lei ordinária",
+      "number": "15406",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15406.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "2b6c07e20d157220dc45357daa715a03f192e303cd570e54eefbdbb3fecaba0e",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15405",
+      "kind": "lei ordinária",
+      "number": "15405",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15405.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "71958547c8b211ce710b3f476ac7a00fa665a45dfe1d47ac7e716d7b00d45f01",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15404",
+      "kind": "lei ordinária",
+      "number": "15404",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15404.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "ade6457119e4dc65187ae267461a7c7e0cc0a5fed1c2b6be710a089c760e8996",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15403",
+      "kind": "lei ordinária",
+      "number": "15403",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15403.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "f0d99ac200c0875f5358719d83bf34902733e29b80a9c8ba205fff7e0e09fc18",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15402",
+      "kind": "lei ordinária",
+      "number": "15402",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15402.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "04f2168355820111cc7e9500e6b3f5598ff2daf32e9979bf0c4c127b81e8441d",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15401",
+      "kind": "lei ordinária",
+      "number": "15401",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15401.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "1a252505c2733397ca3cbae1f51511e8a635382bc029262d7ea017c407ddd31c",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15400",
+      "kind": "lei ordinária",
+      "number": "15400",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15400.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "22cd729f40971324e7654637bd1a284c5463dc2803e145c9a725dc65328ec92e",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15399",
+      "kind": "lei ordinária",
+      "number": "15399",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15399.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "4bf01e59044bc0a7a31d03bb5ad5a11bd4a8ee44d5ff7842023b7dc85b7dba3b",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15398",
+      "kind": "lei ordinária",
+      "number": "15398",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15398.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "cb5f173fa29a261b8e55afd169b0eec9ce0a34d887a99ff07699a15d3cf1e1f1",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15397",
+      "kind": "lei ordinária",
+      "number": "15397",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15397.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "e64ff240c877bfb04b2b0be4d36651019ed7e7b2bf38ae504dc76e94762245f0",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15396",
+      "kind": "lei ordinária",
+      "number": "15396",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15396.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "185b12782c99d720116a223303f4e8a74dbcb14eeedeb812a6968b8e252cd0b4",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15395",
+      "kind": "lei ordinária",
+      "number": "15395",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15395.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "6bdd17f3738fee1aa1d994e1f8b47b73ed1f93c45ce58ff8e30b535a3c1d1b2b",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15394",
+      "kind": "lei ordinária",
+      "number": "15394",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15394.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "fdba08d7b187f601e5cb92a8846505f81ae5d948f7d8296e06ad9f46505dcbfd",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15393",
+      "kind": "lei ordinária",
+      "number": "15393",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15393.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "98cea307a6dc576bc74c0ee41a85905b34d076c84c08c5d799ce2977d762d0fb",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15392",
+      "kind": "lei ordinária",
+      "number": "15392",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15392.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "fee1d845c5e9b3a5a98c8c77aac822788dceaa6faff348d8eafac982738be425",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15391",
+      "kind": "lei ordinária",
+      "number": "15391",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15391.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "a1a7f9ef2a19039d06a636b78a0fce098f34774fbd97643f755fd9c11185d5f4",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15390",
+      "kind": "lei ordinária",
+      "number": "15390",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15390.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "24ba777c33c9a593bd93f9d3ee5352089ee74dd18c136005101450bb1cba233e",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15389",
+      "kind": "lei ordinária",
+      "number": "15389",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15389.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "8c16ce306d1c99b9149112020d841e3d8d512d3f31dc1b058edcfaeada4f7ec5",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15388",
+      "kind": "lei ordinária",
+      "number": "15388",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15388.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "dd3aa96f28795a0cc50f69b8997e3002691dafda172df614620a478c3c6be9e0",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15387",
+      "kind": "lei ordinária",
+      "number": "15387",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15387.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "4de79b3833c908746b6e9294a9669acbbcd3924994121b2653291bcc61b9bad8",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15386",
+      "kind": "lei ordinária",
+      "number": "15386",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15386.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "586f63c8774d2f6b2beb220d7d46b225ac17f11ae2174c77327bac08dca38a55",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15385",
+      "kind": "lei ordinária",
+      "number": "15385",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15385.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "60ba07044c34cead9dddf0ee837cce5e027b33368609ff57bf3f7a859bb51e9a",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15384",
+      "kind": "lei ordinária",
+      "number": "15384",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15384.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "f644cb536f59f6ac0eb801672db4ac8d6b66e4ebb3beb428c0a93496c2713d74",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15383",
+      "kind": "lei ordinária",
+      "number": "15383",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15383.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "649f4c2002a6f9cf2d9eaa856ae0710d9499fae1614aae7188d22d153b57539f",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15382",
+      "kind": "lei ordinária",
+      "number": "15382",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15382.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "ce1986f79203e4d244b11267015901ee69235e990431d6c24b4685a54756eb92",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15381",
+      "kind": "lei ordinária",
+      "number": "15381",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15381.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "2fe59d2ef4fd6469c8e5a37b708a14b991a9a34bef852b1ebebdea7d1a6c43fe",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15380",
+      "kind": "lei ordinária",
+      "number": "15380",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15380.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "100e32e69a0e3049334f2a8f2681b0399370a60e599a4f60ea88cf3fcc1f49fa",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15379",
+      "kind": "lei ordinária",
+      "number": "15379",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15379.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "9b8d23fea68014adc5395bbdf5436fa3ef987130787b3062d058bf7ccd72ebfc",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15378",
+      "kind": "lei ordinária",
+      "number": "15378",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15378.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "1091805e924417925e1091e79ce22d1661f5c8f80810ebf613130d5d7d8d4473",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15377",
+      "kind": "lei ordinária",
+      "number": "15377",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15377.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "6a6002ae2febc9c8070a8ca45a50817f4247092292223778b00b9755c77ee28d",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15376",
+      "kind": "lei ordinária",
+      "number": "15376",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15376.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "3bb3b31143784bddc107fa5138abe5186aea37bb1d0ab6800d9d8e28cb8b794f",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15375",
+      "kind": "lei ordinária",
+      "number": "15375",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15375.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "b790beab51d945c5dca1efc196f6b618744141e425c9dd27f254afd033bdebcb",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15374",
+      "kind": "lei ordinária",
+      "number": "15374",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15374.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "4b6640a1d3ddb79943186d64255ebaa058b7b0a2e0a6d025a5f874b7770f45b2",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15373",
+      "kind": "lei ordinária",
+      "number": "15373",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15373.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "4083e243fb32466056ff9983bf35141c52752b4431759799ce4394b62ac42f2d",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15372",
+      "kind": "lei ordinária",
+      "number": "15372",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15372.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "f68e5325e42e3ac12f1746726b8ca47105fbe05a6dc061e419d8aa2c8825232e",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15371",
+      "kind": "lei ordinária",
+      "number": "15371",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15371.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "0db96c7bbdda50d42fecfe00c4a559770be334ed272d2e442fab614d5071212f",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15370",
+      "kind": "lei ordinária",
+      "number": "15370",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15370.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "38d28f348faf2dec908c5b1a2eac2919a11fc74476f83f29bd65126aeef5f505",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15369",
+      "kind": "lei ordinária",
+      "number": "15369",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15369.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "cef2fcb7eea3fccbf2112a48ee2c70f5edb4a88503dbb1dca364d113c04f6423",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15368",
+      "kind": "lei ordinária",
+      "number": "15368",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15368.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "62e600cf75967f04ab27ceac9a1b385dc9339fa5af00a1eb3b2aa34095bb8b23",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15367",
+      "kind": "lei ordinária",
+      "number": "15367",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15367.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "a68198c04c09fcff2cc1e95714639dcd0dfb21f392f39c041b735da5211afea8",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15366",
+      "kind": "lei ordinária",
+      "number": "15366",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15366.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "b8330d3e7e67192b46bc620ef1d72a9f279b6390dc467ff1e5626b788e9da70e",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15365",
+      "kind": "lei ordinária",
+      "number": "15365",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15365.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "5b5cff25db25b46c72f9fe8d587d3373fef96beb229ae9ab4c4d4181a5ef86b6",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15364",
+      "kind": "lei ordinária",
+      "number": "15364",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15364.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "7b578773588fff9f6441138aa36fbefee4824118cce20a2e378a59dc1114a732",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15363",
+      "kind": "lei ordinária",
+      "number": "15363",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15363.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "44ca6cc6d351da98fb9cd2a010dc1ed9767dca9c306280deea3d9b5b3687ae80",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15362",
+      "kind": "lei ordinária",
+      "number": "15362",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15362.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "37d2ce86e11b2c0e6170e33906acd059344a6fc7dff09c1d7144a46a7f300f8d",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15361",
+      "kind": "lei ordinária",
+      "number": "15361",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15361.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "d3290ab7d1a306a468e94ef67570e2f454b19d73c5a979ec19c659acd5e15e6d",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15360",
+      "kind": "lei ordinária",
+      "number": "15360",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15360.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "1a7e2998254ec225e318108f18cb96bbd3a31b39d52495e035f9f2ab9022222b",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15359",
+      "kind": "lei ordinária",
+      "number": "15359",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15359.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "b31373497b5d9283e868c6eca10000c9b8a994af89706a97f5745510bb3a2466",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15358",
+      "kind": "lei ordinária",
+      "number": "15358",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15358.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "f6779887e947ada06afc7ec21a0fed9733b018743082a3b224120a4a9da22d56",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15357",
+      "kind": "lei ordinária",
+      "number": "15357",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15357.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "3f20235f03bb3f8b046fcd76d166ede43fe49003427300160ccf586b26b6bc7a",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15356",
+      "kind": "lei ordinária",
+      "number": "15356",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15356.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "4f332504602273766948903838c6d2efba69a5f46cab1a15778b703c8f0f1507",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15355",
+      "kind": "lei ordinária",
+      "number": "15355",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15355.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "e5324459b3d162184f86e81fe8b665483b29709f8ae20bfc3973162bf27b1f4d",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15354",
+      "kind": "lei ordinária",
+      "number": "15354",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15354.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "e51f0da9a5abb69acd32c7bbccd23d399093e38c3ab428a2da2496c8c87bc569",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15353",
+      "kind": "lei ordinária",
+      "number": "15353",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15353.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "6edd9f9990187c16d984f68e1ab35be34a9bfbc699870c1ade357d05b8e63a41",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15352",
+      "kind": "lei ordinária",
+      "number": "15352",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15352.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "b9ea6c7388bf102639f395723151f452e0545483f5e77a9f6fbba60ed7ee4e2d",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15351",
+      "kind": "lei ordinária",
+      "number": "15351",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15351.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "c4329e22bd691138979789ca32100d190731efdbd56589248303f20ea04ded7b",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15350",
+      "kind": "lei ordinária",
+      "number": "15350",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15350.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "584426d2dd59a24c0312cdd0ead3be1390925a27a784477f83d4132327738bc6",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15349",
+      "kind": "lei ordinária",
+      "number": "15349",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15349.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "0bc01caa5671afab78bec9228d952958b8db657c7d510207449e46bcfc063fd7",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15348",
+      "kind": "lei ordinária",
+      "number": "15348",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15348.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "f0f4a37381c10be72ccdbee63be31a0c09372a99ef8abecb035312b5f9f59b45",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15347",
+      "kind": "lei ordinária",
+      "number": "15347",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15347.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "c3918338308c6bbdbcb117b076adbf3d3fae9a589e2913a51e3793f929d174e1",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15346",
+      "kind": "lei ordinária",
+      "number": "15346",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15346.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "730890858b83174f136ca88e930ab4fd839e4830dc3d282bd23363058437ef3e",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15345",
+      "kind": "lei ordinária",
+      "number": "15345",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15345.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "f2d1739e442989e1f22fd3bad68173a6d84e69e0b2da1ac9f960b27cb1299034",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15344",
+      "kind": "lei ordinária",
+      "number": "15344",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15344.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "3d26cc7c60ba2fce3d118fcd150202c5215cb5ef9e5d100aa5f121125cc4d903",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15343",
+      "kind": "lei ordinária",
+      "number": "15343",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15343.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "ccbfddbddb74d40137905aa38aca280fb8c2af07a9a462df100bd55a9ba365d4",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15342",
+      "kind": "lei ordinária",
+      "number": "15342",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15342.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "9a62e3ec64cfe1a6208fde7a4b8d919f99dc8f2290f3395ac13bee35c67d7f14",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15341",
+      "kind": "lei ordinária",
+      "number": "15341",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15341.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "66d0fb28135de39e8d6bd1c2ac20c0817cae93c1be1dca2e812b7fa1f5bf5d54",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15340",
+      "kind": "lei ordinária",
+      "number": "15340",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15340.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "c76e888fbeefd1885ffe63f4f99f9a45958c856b56c5c8949d3061c933f7e2d9",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15339",
+      "kind": "lei ordinária",
+      "number": "15339",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15339.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "56bdfccac2277f2c747aa101b6829655b37dd72c492950464ba4bbaa200f5c47",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15338",
+      "kind": "lei ordinária",
+      "number": "15338",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15338.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "3d769b4b21b859edd857ac9df33dd9ec488f5374bfe371213efc300dba89a8fc",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15337",
+      "kind": "lei ordinária",
+      "number": "15337",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15337.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "8bfbaf839f8cb9af94eb15c9822f5aff1b403e20fdf16892883555d7a5c866aa",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15336",
+      "kind": "lei ordinária",
+      "number": "15336",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15336.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "469057043f830a890edd99c79517d4216fe54813472e59c0c611b6b29b2bacb7",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15335",
+      "kind": "lei ordinária",
+      "number": "15335",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15335.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "feeb01f02f05bc6f8b06232a39860867fd1cadffb3f583cb87fe27846bcd52ca",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15334",
+      "kind": "lei ordinária",
+      "number": "15334",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15334.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "9e570c9c44b9fb20328edf7d5269a3ca447c77a2ebdc971a706bf9deb9761c82",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15333",
+      "kind": "lei ordinária",
+      "number": "15333",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15333.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "6bee1c9194987d13e92298ffe9b01301eb75e9bbd5593dae5ff4ae825ad6ae56",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15332",
+      "kind": "lei ordinária",
+      "number": "15332",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15332.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "2b24459e676272aa9d4cda2bdd14031a14753e2b33f5687fad1fb46693347ee4",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15331",
+      "kind": "lei ordinária",
+      "number": "15331",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15331.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "c79e139794dc7126e1d2c862db225fc0ccc1901d20ea96868751c9a10260db1e",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15330",
+      "kind": "lei ordinária",
+      "number": "15330",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15330.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "dc19759f39ab648533bbbf87867fed55e5c7af5f2bd5d49851a93d911cc382d8",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15329",
+      "kind": "lei ordinária",
+      "number": "15329",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15329.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "7e12b395eddf41554e0fe00ab0e931ef3f384eda6d9cb647879bb25a56b2a481",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15328",
+      "kind": "lei ordinária",
+      "number": "15328",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15328.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "0be9a66b9ba60a3786fc14758ff3c320361f5a72f2e36e0989d8aaa23f8808de",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15327",
+      "kind": "lei ordinária",
+      "number": "15327",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15327.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "1edb015b2585dee5a7b49c7acd1df622033bf430c1e4db8054be1db2e4530ede",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15326",
+      "kind": "lei ordinária",
+      "number": "15326",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15326.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "82497e67d30928397d2320b8f6c41994e4b9f6e9e313c10510c91aa9efbf33c3",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15325",
+      "kind": "lei ordinária",
+      "number": "15325",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15325.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "2b55f181c2c9a40480c37ed10bd3274d7564c83b8fd107642dc798e178ec662b",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15324",
+      "kind": "lei ordinária",
+      "number": "15324",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15324.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "7bf68712369d525bcb0d263b87ad67e199ae3401d75beeb871c9d5773e27b49d",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15323",
+      "kind": "lei ordinária",
+      "number": "15323",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15323.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "fa2a332debe3094fc5a2f7b743b059a2e99629b7bbd0a2ef7c4942745be0cb17",
+      "parser_version": "3.0"
+    },
+    {
+      "id": "lei-ordinaria-15322",
+      "kind": "lei ordinária",
+      "number": "15322",
+      "jurisdiction": "federal",
+      "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15322.htm",
+      "corpus_file": "leis_ordinarias_2026.md",
+      "content_sha256": "2666b9037422969d5990f455bd336670aabae3ffd1127b23607202b726ec72bc",
+      "parser_version": "3.0"
+    }
+  ],
+  "validity_notice": "Hashes prove identity of the snapshot; they do not prove vigência, constitucionalidade or applicability."
+}

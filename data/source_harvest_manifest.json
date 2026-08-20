@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0",
+  "purpose": "Configuração do coletor genérico. Toda coleta preserva resposta bruta, hash e data; nenhum status jurídico é inferido.",
+  "sources": [
+    {
+      "id": "planalto-leis-ordinarias-2026",
+      "authority": "Presidência da República — Portal da Legislação",
+      "jurisdiction": "federal",
+      "normative_type": "lei ordinária",
+      "listing_url": "https://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/leis-ordinarias/2026-leis-ordinarias",
+      "link_pattern": "ccivil_03/.*?/2026/lei/l\\d+\\.htm$",
+      "status": "local_snapshot"
+    },
+    {
+      "id": "planalto-leis-complementares",
+      "authority": "Presidência da República — Portal da Legislação",
+      "jurisdiction": "federal",
+      "normative_type": "lei complementar",
+      "listing_url": "https://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/leis-complementares-1/todas-as-leis-complementares-1",
+      "link_pattern": "ccivil_03/leis/lcp/lcp\\d+\\.htm$",
+      "status": "local_snapshot"
+    },
+    {
+      "id": "planalto-federal-portal",
+      "authority": "Presidência da República — Portal da Legislação",
+      "jurisdiction": "federal",
+      "normative_type": "legislação federal",
+      "listing_url": "https://www4.planalto.gov.br/legislacao",
+      "link_pattern": "https?://(?:www4|www)\\.planalto\\.gov\\.br/ccivil_03/",
+      "status": "official_external"
+    },
+    {
+      "id": "stf-jurisprudencia",
+      "authority": "Supremo Tribunal Federal",
+      "jurisdiction": "federal",
+      "normative_type": "jurisprudência constitucional",
+      "listing_url": "https://portal.stf.jus.br/jurisprudencia/",
+      "link_pattern": "https?://portal\\.stf\\.jus\\.br/",
+      "status": "official_external"
+    },
+    {
+      "id": "stj-jurisprudencia",
+      "authority": "Superior Tribunal de Justiça",
+      "jurisdiction": "federal",
+      "normative_type": "jurisprudência infraconstitucional",
+      "listing_url": "https://processo.stj.jus.br/SCON/",
+      "link_pattern": "https?://processo\\.stj\\.jus\\.br/",
+      "status": "official_external"
+    },
+    {
+      "id": "tst-jurisprudencia",
+      "authority": "Tribunal Superior do Trabalho",
+      "jurisdiction": "federal",
+      "normative_type": "jurisprudência trabalhista",
+      "listing_url": "https://jurisprudencia.tst.jus.br/",
+      "link_pattern": "https?://jurisprudencia\\.tst\\.jus\\.br/",
+      "status": "official_external"
+    },
+    {
+      "id": "tse-jurisprudencia",
+      "authority": "Tribunal Superior Eleitoral",
+      "jurisdiction": "federal",
+      "normative_type": "jurisprudência eleitoral",
+      "listing_url": "https://jurisprudencia.tse.jus.br/",
+      "link_pattern": "https?://jurisprudencia\\.tse\\.jus\\.br/",
+      "status": "official_external"
+    },
+    {
+      "id": "stm-jurisprudencia",
+      "authority": "Superior Tribunal Militar",
+      "jurisdiction": "federal",
+      "normative_type": "jurisprudência militar",
+      "listing_url": "https://www.stm.jus.br/servicos-stm/jurisprudencia",
+      "link_pattern": "https?://www\\.stm\\.jus\\.br/",
+      "status": "official_external"
+    },
+    {
+      "id": "cnj-atos",
+      "authority": "Conselho Nacional de Justiça",
+      "jurisdiction": "federal",
+      "normative_type": "ato infralegal",
+      "listing_url": "https://atos.cnj.jus.br/",
+      "link_pattern": "https?://atos\\.cnj\\.jus\\.br/",
+      "status": "official_external"
+    },
+    {
+      "id": "trabalho-nrs",
+      "authority": "Ministério do Trabalho e Emprego",
+      "jurisdiction": "federal",
+      "normative_type": "norma regulamentadora",
+      "listing_url": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/seguranca-e-saude-no-trabalho/ctpp-nrs/normas-regulamentadoras-nrs",
+      "link_pattern": "https?://www\\.gov\\.br/trabalho-e-emprego/",
+      "status": "official_external"
+    },
+    {
+      "id": "dou",
+      "authority": "Imprensa Nacional — Diário Oficial da União",
+      "jurisdiction": "federal",
+      "normative_type": "publicação oficial",
+      "listing_url": "https://www.in.gov.br/",
+      "link_pattern": "https?://www\\.in\\.gov\\.br/",
+      "status": "official_external"
+    }
+  ]
+}

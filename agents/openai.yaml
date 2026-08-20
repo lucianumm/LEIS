@@ -1,0 +1,6 @@
+interface:
+  display_name: "Análise legislativa brasileira"
+  short_description: "Pesquisa legislativa brasileira verificável"
+  default_prompt: "Use $leis-analise-br para analisar este caso, verificar jurisdição e cobertura, expandir remissões e aliases, consultar conectores externos quando necessários, registrar a evidência do snapshot e confirmar vigência em fontes oficiais."
+policy:
+  allow_implicit_invocation: true
